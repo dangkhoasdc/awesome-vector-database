@@ -1,4 +1,4 @@
-# Awesome Vector Database [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :mag: Awesome Vector Database [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome works related to high dimensional structure/vector search &amp; database 
 
 # Services
@@ -7,18 +7,15 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Weaviate](https://github.com/weaviate/weaviate).
 - [Vespa](https://vespa.ai/)
 
-# Engines
-
-- [OpenSearch](https://opensearch.org/).
-- [Typesense](https://typesense.org/).
-
-# Libraries
+# Libraries & Engines
 ## Multidimensional data / Vectors
 
 - [Faiss](https://faiss.ai/).
+- [Typesense](https://typesense.org/).
+- [Qdrant](https://qdrant.tech/).
 
 ## Texts
-
+- [OpenSearch](https://opensearch.org/).
 - [PISA](https://github.com/pisa-engine/pisa)
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 
