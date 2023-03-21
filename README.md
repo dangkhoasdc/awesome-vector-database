@@ -6,7 +6,11 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Pinecone](https://www.pinecone.io/).
 - [Weaviate](https://github.com/weaviate/weaviate).
 - [Vespa](https://vespa.ai/)
+
+# Engines
+
 - [OpenSearch](https://opensearch.org/).
+- [Typesense](https://typesense.org/).
 
 # Libraries
 
