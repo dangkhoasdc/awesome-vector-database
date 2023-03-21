@@ -13,8 +13,14 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Typesense](https://typesense.org/).
 
 # Libraries
+## Multidimensional data / Vectors
 
 - [Faiss](https://faiss.ai/).
+
+## Texts
+
+- [PISA](https://github.com/pisa-engine/pisa)
+- [Tantivy](https://github.com/quickwit-oss/tantivy)
 
 # Benchmarks & Databases
 
