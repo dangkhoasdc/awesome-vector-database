@@ -28,6 +28,10 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 # Papers
+## Quantization
+- :star: Product quantization for nearest neighbor search. Jegou, Herve, Matthijs Douze, and Cordelia Schmid. [[Paper](https://lear.inrialpes.fr/pubs/2011/JDS11/jegou_searching_with_quantization.pdf), [Code](https://github.com/facebookresearch/faiss)]
+## Graph-based Methods
+## Hashing
 
 
 
