@@ -6,6 +6,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Pinecone](https://www.pinecone.io/).
 - [Weaviate](https://github.com/weaviate/weaviate).
 - [Vespa](https://vespa.ai/)
+- [txtai](https://github.com/neuml/txtai)
+
 
 # Libraries & Engines
 ## Multidimensional data / Vectors
@@ -13,11 +15,13 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Faiss](https://faiss.ai/).
 - [Typesense](https://typesense.org/).
 - [Qdrant](https://qdrant.tech/).
+- [annoy](https://github.com/spotify/annoy)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/).
 - [PISA](https://github.com/pisa-engine/pisa)
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
+- [sonic](https://github.com/valeriansaliou/sonic)
 
 # Benchmarks & Databases
 
