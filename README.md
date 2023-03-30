@@ -12,10 +12,11 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Libraries & Engines
 ## Multidimensional data / Vectors
 
-- [Faiss](https://faiss.ai/).
+- :star: [Faiss](https://faiss.ai/).
 - [Typesense](https://typesense.org/).
 - [Qdrant](https://qdrant.tech/).
 - [annoy](https://github.com/spotify/annoy)
+- [NGT](https://github.com/yahoojapan/NGT)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/).
