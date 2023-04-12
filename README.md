@@ -26,13 +26,17 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 # Benchmarks & Databases
 
-- [ANN Benchmarks](http://ann-benchmarks.com/).
+- [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
+- [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com).
 
 # Books
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
-# Papers
+# Conferences & Workships
+- :star: [VLDB](https://vldb.org)
+
+# Publications
 ## Quantization
 - :star: PQ: Product quantization for nearest neighbor search. Jegou, Herve, Matthijs Douze, and Cordelia Schmid. [[Paper](https://lear.inrialpes.fr/pubs/2011/JDS11/jegou_searching_with_quantization.pdf), [Code](https://github.com/facebookresearch/faiss), [Julia Code](https://github.com/una-dinosauria/Rayuela.jl)]
 - :star: k-selection on GPU: Billion-scale similarity search with gpus. Johnson, Jeff, Matthijs Douze, and Hervé Jégou [[Paper](https://arxiv.org/pdf/1702.08734.pdf), [Code](https://github.com/facebookresearch/faiss)]
