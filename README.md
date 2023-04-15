@@ -36,7 +36,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 # Conferences & Workships
 - :star: [VLDB](https://vldb.org)
-- :star: [Image Retrieval in the Wild (CVPR20)](https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
+- :star: [Image Retrieval in the Wild (CVPR20)](https://matsui528.github.io/cvpr2020_tutorial_retrieval/) [[Video](https://www.youtube.com/watch?v=SKrHs03i08Q)]
 - [Neural Search In Action](https://matsui528.github.io/cvpr2023_tutorial_neural_search/)
 
 # Publications
