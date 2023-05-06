@@ -17,6 +17,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Qdrant](https://qdrant.tech/).
 - [annoy](https://github.com/spotify/annoy)
 - [NGT](https://github.com/yahoojapan/NGT)
+- [pgvector](https://github.com/pgvector/pgvector)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/).
