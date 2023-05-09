@@ -38,7 +38,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Conferences & Workshops
 - :star: [VLDB](https://vldb.org)
   - Tutorial:
-    - New Trends in High-D Vector Similarity Search [[slides](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf)].
+    - New Trends in High-D Vector Similarity Search [[slides](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf), [video](https://www.youtube.com/watch?v=TFsrFwF0bC4&ab_channel=VLDB2021), [paper](https://echihabi.com/publications/tutorials/vldb2021-tutorial-summary.pdf)].
 - :star: [Image Retrieval in the Wild (CVPR20)](https://matsui528.github.io/cvpr2020_tutorial_retrieval/) [[Video](https://www.youtube.com/watch?v=SKrHs03i08Q)]
 - [Neural Search In Action](https://matsui528.github.io/cvpr2023_tutorial_neural_search/)
 - ACM MM 2020: [Effective and Efficient: Toward Open-world Instance Re-identification](https://wangzwhu.github.io/home/acmmm2020_tutorial_reid.html)
