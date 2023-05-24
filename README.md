@@ -73,4 +73,5 @@ Source: A survey of product quantization.
 - :star: A survey on deep hashing methods. Luo, Xiao, Haixin Wang, Daqing Wu, Chong Chen, Minghua Deng, Jianqiang Huang, and Xian-Sheng Hua. [[Paper](https://dl.acm.org/doi/full/10.1145/3532624)]
 - :star: Iterative quantization: A procrustean approach to learning binary codes for large-scale image retrieval. Gong, Yunchao, Svetlana Lazebnik, Albert Gordo, and Florent Perronnin [[Paper](https://slazebni.cs.illinois.edu/publications/ITQ.pdf), [Python code](https://github.com/twistedcubic/learn-to-hash/blob/master/itq.py), [Matlab code](https://github.com/dangkhoasdc/sah/tree/master/itq)]
 
-
+## Evaluation & Metrics
+- Which BM25 do you mean? A large-scale reproducibility study of scoring variants. Kamphuis, Chris, Arjen P. de Vries, Leonid Boytsov, and Jimmy Lin [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148026/)]
