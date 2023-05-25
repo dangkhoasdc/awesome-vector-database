@@ -45,6 +45,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - ACM MM 2020: [Effective and Efficient: Toward Open-world Instance Re-identification](https://wangzwhu.github.io/home/acmmm2020_tutorial_reid.html)
   - Billion-scale Approximate Nearest Neighbor Search: [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf), [Video](https://www.youtube.com/watch?v=iI8e3kU11eU)].
   - Is instance search a solved problem? [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part4-ins.pdf), [Video](https://www.youtube.com/watch?v=cH256Zqt5Ms)].
+- Retrieval Augmented Generation and Vespa [[Slides](https://docs.google.com/presentation/d/1LRAQfdT4UH69pgojNi_EMspSgsHn9YJVac_bbnhy038/edit#slide=id.p1)]
 ## Courses
 - Long Term Memory in AI - Vector Search and Databases (COS 495 - Princeton) [[Class Notes](https://github.com/edoliberty/vector-search-class-notes)]
 
