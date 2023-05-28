@@ -3,8 +3,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 # Services
 
-- [Pinecone](https://www.pinecone.io/).
-- [Weaviate](https://github.com/weaviate/weaviate).
+- [Pinecone](https://www.pinecone.io/)
+- [Weaviate](https://github.com/weaviate/weaviate)
 - [Vespa](https://vespa.ai/)
 - [txtai](https://github.com/neuml/txtai)
 
@@ -12,16 +12,16 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Libraries & Engines
 ## Multidimensional data / Vectors
 
-- :star: [Faiss](https://faiss.ai/).
-- [Typesense](https://typesense.org/).
-- [Qdrant](https://qdrant.tech/).
+- :star: [Faiss](https://faiss.ai/)
+- [Typesense](https://typesense.org/)
+- [Qdrant](https://qdrant.tech/)
 - [annoy](https://github.com/spotify/annoy)
 - [NGT](https://github.com/yahoojapan/NGT)
 - [pgvector](https://github.com/pgvector/pgvector)
 - [Chroma](https://github.com/chroma-core/chroma)
 
 ## Texts
-- [OpenSearch](https://opensearch.org/).
+- [OpenSearch](https://opensearch.org/)
 - [PISA](https://github.com/pisa-engine/pisa)
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 - [sonic](https://github.com/valeriansaliou/sonic)
@@ -29,7 +29,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Benchmarks & Databases
 
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
-- [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com).
+- [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com)
 - [BEIR](https://github.com/beir-cellar/beir)
 
 # Books
@@ -39,12 +39,12 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Conferences & Workshops
 - :star: [VLDB](https://vldb.org)
   - Tutorial:
-    - New Trends in High-D Vector Similarity Search [[slides](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf), [video](https://www.youtube.com/watch?v=TFsrFwF0bC4&ab_channel=VLDB2021), [paper](https://echihabi.com/publications/tutorials/vldb2021-tutorial-summary.pdf)].
+    - New Trends in High-D Vector Similarity Search [[slides](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf), [video](https://www.youtube.com/watch?v=TFsrFwF0bC4&ab_channel=VLDB2021), [paper](https://echihabi.com/publications/tutorials/vldb2021-tutorial-summary.pdf)]
 - :star: [Image Retrieval in the Wild (CVPR20)](https://matsui528.github.io/cvpr2020_tutorial_retrieval/) [[Video](https://www.youtube.com/watch?v=SKrHs03i08Q)]
 - [Neural Search In Action](https://matsui528.github.io/cvpr2023_tutorial_neural_search/)
 - ACM MM 2020: [Effective and Efficient: Toward Open-world Instance Re-identification](https://wangzwhu.github.io/home/acmmm2020_tutorial_reid.html)
-  - Billion-scale Approximate Nearest Neighbor Search: [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf), [Video](https://www.youtube.com/watch?v=iI8e3kU11eU)].
-  - Is instance search a solved problem? [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part4-ins.pdf), [Video](https://www.youtube.com/watch?v=cH256Zqt5Ms)].
+  - Billion-scale Approximate Nearest Neighbor Search: [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf), [Video](https://www.youtube.com/watch?v=iI8e3kU11eU)]
+  - Is instance search a solved problem? [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part4-ins.pdf), [Video](https://www.youtube.com/watch?v=cH256Zqt5Ms)]
 - Retrieval Augmented Generation and Vespa [[Slides](https://docs.google.com/presentation/d/1LRAQfdT4UH69pgojNi_EMspSgsHn9YJVac_bbnhy038/edit#slide=id.p1)]
 ## Courses
 - Long Term Memory in AI - Vector Search and Databases (COS 495 - Princeton) [[Class Notes](https://github.com/edoliberty/vector-search-class-notes)]
@@ -72,7 +72,7 @@ Source: A survey of product quantization.
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
-- :star: A survey on learning to hash. Wang, Jingdong, Ting Zhang, Nicu Sebe, and Heng Tao Shen [[Paper](https://arxiv.org/pdf/1606.00185.pdf)].
+- :star: A survey on learning to hash. Wang, Jingdong, Ting Zhang, Nicu Sebe, and Heng Tao Shen [[Paper](https://arxiv.org/pdf/1606.00185.pdf)]
 - :star: A survey on deep hashing methods. Luo, Xiao, Haixin Wang, Daqing Wu, Chong Chen, Minghua Deng, Jianqiang Huang, and Xian-Sheng Hua. [[Paper](https://dl.acm.org/doi/full/10.1145/3532624)]
 - :star: Iterative quantization: A procrustean approach to learning binary codes for large-scale image retrieval. Gong, Yunchao, Svetlana Lazebnik, Albert Gordo, and Florent Perronnin [[Paper](https://slazebni.cs.illinois.edu/publications/ITQ.pdf), [Python code](https://github.com/twistedcubic/learn-to-hash/blob/master/itq.py), [Matlab code](https://github.com/dangkhoasdc/sah/tree/master/itq)]
 
