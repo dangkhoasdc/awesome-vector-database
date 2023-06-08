@@ -15,6 +15,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - :star: [Faiss](https://faiss.ai/)
 - [Typesense](https://typesense.org/)
 - [Qdrant](https://qdrant.tech/)
+  - [Video tutorial](https://youtu.be/LRcZ9pbGnno), [Notebook](https://github.com/qdrant/examples/blob/master/qdrant_101_getting_started/getting_started.ipynb)
 - [annoy](https://github.com/spotify/annoy)
 - [NGT](https://github.com/yahoojapan/NGT)
 - [pgvector](https://github.com/pgvector/pgvector)
