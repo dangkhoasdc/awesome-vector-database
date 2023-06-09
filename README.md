@@ -7,6 +7,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Weaviate](https://github.com/weaviate/weaviate)
 - [Vespa](https://vespa.ai/)
 - [txtai](https://github.com/neuml/txtai)
+- [marqo](https://github.com/marqo-ai/marqo)
 
 
 # Libraries & Engines
