@@ -2,13 +2,12 @@
 A curated list of awesome works related to high dimensional structure/vector search &amp; database 
 
 # Services
-
 - [Pinecone](https://www.pinecone.io/)
 - [Weaviate](https://github.com/weaviate/weaviate)
 - [Vespa](https://vespa.ai/)
 - [txtai](https://github.com/neuml/txtai)
 - [marqo](https://github.com/marqo-ai/marqo)
-
+- [cohere](https://cohere.com/)
 
 # Libraries & Engines
 ## Multidimensional data / Vectors
@@ -34,7 +33,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com)
 - [BEIR](https://github.com/beir-cellar/beir)
 
-# Books
+# 📚 Books 
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 - [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
