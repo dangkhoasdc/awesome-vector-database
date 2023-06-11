@@ -37,6 +37,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Books
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 
 # Conferences & Workshops
 - :star: [VLDB](https://vldb.org)
