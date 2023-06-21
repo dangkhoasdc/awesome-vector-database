@@ -82,5 +82,6 @@ Source: A survey of product quantization.
 ## Evaluation & Metrics
 - Which BM25 do you mean? A large-scale reproducibility study of scoring variants. Kamphuis, Chris, Arjen P. de Vries, Leonid Boytsov, and Jimmy Lin [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148026/)]
 
-## Articles
+## 📰 Articles
+- What is a Vector Database? [[Article](https://www.pinecone.io/learn/vector-database/)]
 - eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine [[Article](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/?utm_source=substack&utm_medium=email)]
