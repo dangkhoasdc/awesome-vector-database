@@ -20,6 +20,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [NGT](https://github.com/yahoojapan/NGT)
 - [pgvector](https://github.com/pgvector/pgvector)
 - [Chroma](https://github.com/chroma-core/chroma)
+- [LlamaIndex](https://github.com/jerryjliu/llama_index)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
