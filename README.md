@@ -86,4 +86,5 @@ Source: A survey of product quantization.
 
 ## 📰 Articles
 - What is a Vector Database? [[Article](https://www.pinecone.io/learn/vector-database/)]
+- Vector databases (Part 1): [What makes each one different?](https://thedataquarry.com/posts/vector-db-1/)
 - eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine [[Article](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/?utm_source=substack&utm_medium=email)]
