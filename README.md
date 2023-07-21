@@ -3,7 +3,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 # Services
 - [Pinecone](https://www.pinecone.io/)
-- [Weaviate](https://github.com/weaviate/weaviate)
+- [Weaviate](https://github.com/weaviate/weaviate) [[Beginner Guide](https://towardsdatascience.com/getting-started-with-weaviate-a-beginners-guide-to-search-with-vector-databases-14bbb9285839)]
 - [Vespa](https://vespa.ai/)
 - [txtai](https://github.com/neuml/txtai)
 - [marqo](https://github.com/marqo-ai/marqo)
