@@ -74,6 +74,7 @@ Source: A survey of product quantization.
 - :star: A comprehensive survey and experimental comparison of graph-based approximate nearest neighbor search. Wang, Mengzhao, Xiaoliang Xu, Qiang Yue, and Yuxiang Wang. [[Paper](https://arxiv.org/pdf/2101.12631.pdf), [Code](https://github.com/Lsyhprum/WEAVESS)]
 - :star: HNSW: Efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs. Malkov, Yu A., and Dmitry A. Yashunin. [[Paper](https://arxiv.org/pdf/1603.09320.pdf), [Code](https://github.com/nmslib/hnswlib)], [Rust Version](https://github.com/rust-cv/hnsw)
 - Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis. Dobson, Magdalen, Zheqi Shen, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Harsha Vardhan Simhadri, and Yihan Sun. [[Paper](https://arxiv.org/pdf/2305.04359.pdf)]
+- FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search. Chen, Patrick, Wei-Cheng Chang, Jyun-Yu Jiang, Hsiang-Fu Yu, Inderjit Dhillon, and Cho-Jui Hsieh [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318), [Video](https://www.youtube.com/watch?v=OsxZG2XfcZA)]
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
