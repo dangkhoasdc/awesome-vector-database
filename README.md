@@ -94,3 +94,4 @@ Source: A survey of product quantization.
 - eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine [[Article](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/?utm_source=substack&utm_medium=email)]
 - Computer Vision Meetup: Computer Vision Applications at Scale with Vector Databases [[Video](https://www.youtube.com/watch?v=YTIDj7jeRbs)]
 - [How to choose your vector database in 2023?](https://www.sicara.fr/blog-technique/how-to-choose-your-vector-database-in-2023)
+- [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
