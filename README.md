@@ -2,6 +2,7 @@
 A curated list of awesome works related to high dimensional structure/vector search &amp; database 
 
 # Services
+- [Google Vector Search (Vertex AI)](https://cloud.google.com/vertex-ai/docs/vector-search/overview)
 - [Pinecone](https://www.pinecone.io/)
 - [Weaviate](https://github.com/weaviate/weaviate) [[Beginner Guide](https://towardsdatascience.com/getting-started-with-weaviate-a-beginners-guide-to-search-with-vector-databases-14bbb9285839)]
 - [Vespa](https://vespa.ai/)
