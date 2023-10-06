@@ -23,6 +23,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Chroma](https://github.com/chroma-core/chroma)
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 - [vectordb](https://github.com/epsilla-cloud/vectordb/tree/main)
+- [jvector](https://github.com/jbellis/jvector)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
