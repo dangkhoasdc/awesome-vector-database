@@ -97,3 +97,4 @@ Source: A survey of product quantization.
 - Computer Vision Meetup: Computer Vision Applications at Scale with Vector Databases [[Video](https://www.youtube.com/watch?v=YTIDj7jeRbs)]
 - [How to choose your vector database in 2023?](https://www.sicara.fr/blog-technique/how-to-choose-your-vector-database-in-2023)
 - [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
+- [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
