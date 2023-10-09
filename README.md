@@ -24,6 +24,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 - [vectordb](https://github.com/epsilla-cloud/vectordb/tree/main)
 - [jvector](https://github.com/jbellis/jvector)
+- [RAFT](https://github.com/rapidsai/raft)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
