@@ -27,6 +27,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [jvector](https://github.com/jbellis/jvector)
 - [RAFT](https://github.com/rapidsai/raft)
 - [Vald](https://vald.vdaas.org/)
+- [Voyager](https://github.com/spotify/voyager)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
