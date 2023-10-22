@@ -28,6 +28,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [RAFT](https://github.com/rapidsai/raft)
 - [Vald](https://vald.vdaas.org/)
 - [Voyager](https://github.com/spotify/voyager)
+- [tinyvector](https://github.com/0hq/tinyvector)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
