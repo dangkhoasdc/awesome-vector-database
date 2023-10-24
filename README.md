@@ -36,6 +36,9 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 - [sonic](https://github.com/valeriansaliou/sonic)
 
+## Others
+- [SimSIMD](https://github.com/ashvardanian/SimSIMD): Efficient Alternative to `scipy.spatial.distance` and `numpy.inner`
+
 # Benchmarks & Databases
 
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
