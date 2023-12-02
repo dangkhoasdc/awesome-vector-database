@@ -30,6 +30,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Voyager](https://github.com/spotify/voyager)
 - [tinyvector](https://github.com/0hq/tinyvector)
 - [USearch](https://github.com/unum-cloud/usearch)
+- [vearch](https://vearch.github.io/)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
