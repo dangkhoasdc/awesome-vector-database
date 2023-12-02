@@ -84,6 +84,7 @@ Source: A survey of product quantization.
 - The inverted multi-index. Babenko, Artem, and Victor Lempitsky [[Paper](https://cmp.felk.cvut.cz/~toliageo/rg/papers/BabenkoLempitsky_PAMI2014_The%20Inverted%20Multi-Index.pdf), [Code](https://github.com/jatin7gupta/Product-Quantization)]
 - Are We There Yet? Product Quantization and its Hardware Acceleration. Fernandez-Marques, Javier, Ahmed F. AbouElhamayed, Nicholas D. Lane, and Mohamed S. Abdelfattah. [[Paper](https://arxiv.org/pdf/2305.18334.pdf)]
 - LibVQ: A Toolkit for Optimizing Vector Quantization and Efficient Neural Retrieval. Li, Chaofan, Zheng Liu, Shitao Xiao, Yingxia Shao, Defu Lian, and Zhao Cao. [[Paper](https://dl.acm.org/doi/10.1145/3539618.3591799), [Code](https://github.com/staoxiao/LibVQ/tree/demo)]
+- Matsui, Yusuke, Ryota Hinami, and Shin'ichi Satoh. "Reconfigurable Inverted Index." Proceedings of the 26th ACM international conference on Multimedia. 2018. [[Paper](https://dl.acm.org/ft_gateway.cfm?id=3240630), [Project](https://yusukematsui.me/project/rii/), [Code](https://github.com/matsui528/rii)]
 
 ## Graph-based Methods
 
