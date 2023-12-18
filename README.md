@@ -96,6 +96,7 @@ Source: A survey of product quantization.
 - FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search. Chen, Patrick, Wei-Cheng Chang, Jyun-Yu Jiang, Hsiang-Fu Yu, Inderjit Dhillon, and Cho-Jui Hsieh [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318), [Video](https://www.youtube.com/watch?v=OsxZG2XfcZA)]
 - NSG : Navigating Spread-out Graph For Approximate Nearest Neighbor Search. Fu, Cong, Chao Xiang, Changxu Wang, and Deng Cai. [[Paper](https://www.vldb.org/pvldb/vol12/p461-fu.pdf), [Code](https://github.com/ZJULearning/nsg)]
 - EFANNA : Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph. Cong Fu, Deng Cai. [[Paper](https://arxiv.org/abs/1609.07228), [Code](https://github.com/ZJULearning/efanna/tree/master)]
+- Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
