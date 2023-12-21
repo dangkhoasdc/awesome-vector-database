@@ -120,3 +120,4 @@ Source: A survey of product quantization.
 - [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 - [Vector Databases: A First-Principles Approach](https://docs.google.com/presentation/d/1qRv2nGVHjbFHXyUeUKK7bbvboj7Yal8UYcu_POEfWOQ/edit#slide=id.p)
 - [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&ab_channel=freeCodeCamp.org)
+- [Efficient Vector Similarity Search in Recommender Workflows Using Milvus with NVIDIA Merlin](https://milvus.io/blog/efficient-vector-similarity-search-recommender-workflows-using-milvus-nvidia-merlin.md)
