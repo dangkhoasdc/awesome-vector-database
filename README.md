@@ -32,6 +32,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [tinyvector](https://github.com/0hq/tinyvector)
 - [USearch](https://github.com/unum-cloud/usearch)
 - [vearch](https://vearch.github.io/)
+- [MRPT](https://github.com/vioshyvo/mrpt)
 
 ## Texts
 - [OpenSearch](https://opensearch.org/)
