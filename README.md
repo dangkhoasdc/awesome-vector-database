@@ -10,6 +10,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [marqo](https://github.com/marqo-ai/marqo)
 - [cohere](https://cohere.com/)
 - [vectara](https://vectara.com)
+- [Epsilla](https://epsilla.com/)
 
 # Libraries & Engines
 ## Multidimensional data / Vectors
