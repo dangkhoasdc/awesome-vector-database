@@ -11,6 +11,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [cohere](https://cohere.com/)
 - [vectara](https://vectara.com)
 - [Epsilla](https://epsilla.com/)
+- [algolia](https://www.algolia.com/)
 
 # Libraries & Engines
 ## Multidimensional data / Vectors
