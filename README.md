@@ -12,6 +12,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [vectara](https://vectara.com)
 - [Epsilla](https://epsilla.com/)
 - [algolia](https://www.algolia.com/)
+- [nucliadb](https://nuclia.com/vector-database/)
+- [marqo](https://www.marqo.ai/)
 
 # Libraries & Engines
 ## Multidimensional data / Vectors
@@ -50,6 +52,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
 - [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com)
 - [BEIR](https://github.com/beir-cellar/beir)
+- [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool)
 
 # 📚 Books 
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
