@@ -8,7 +8,6 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Vespa](https://vespa.ai/)
 - [txtai](https://github.com/neuml/txtai)
 - [marqo](https://github.com/marqo-ai/marqo)
-- [cohere](https://cohere.com/)
 - [vectara](https://vectara.com)
 - [Epsilla](https://epsilla.com/)
 - [algolia](https://www.algolia.com/)
