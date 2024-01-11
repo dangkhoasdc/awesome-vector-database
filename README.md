@@ -52,6 +52,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [BEIR](https://github.com/beir-cellar/beir)
 - [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool)
 - [Qdrant's Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
+- [MyScale's Vector Database Benchmark](https://myscale.github.io/benchmark/#/benchmark)
 
 # 📚 Books 
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
