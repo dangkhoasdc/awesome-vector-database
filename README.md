@@ -13,6 +13,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [algolia](https://www.algolia.com/)
 - [nucliadb](https://nuclia.com/vector-database/)
 - [OpenSearch](https://opensearch.org/)
+- [MyScale](https://myscale.com)
   
 # Libraries & Engines
 ## Multidimensional data / Vectors
