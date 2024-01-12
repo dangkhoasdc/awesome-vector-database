@@ -12,6 +12,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Epsilla](https://epsilla.com/)
 - [algolia](https://www.algolia.com/)
 - [nucliadb](https://nuclia.com/vector-database/)
+- [OpenSearch](https://opensearch.org/)
   
 # Libraries & Engines
 ## Multidimensional data / Vectors
@@ -37,7 +38,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [MRPT](https://github.com/vioshyvo/mrpt)
 
 ## Texts
-- [OpenSearch](https://opensearch.org/)
+
 - [PISA](https://github.com/pisa-engine/pisa)
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 - [sonic](https://github.com/valeriansaliou/sonic)
