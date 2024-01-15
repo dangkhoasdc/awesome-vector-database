@@ -14,6 +14,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [nucliadb](https://nuclia.com/vector-database/)
 - [OpenSearch](https://opensearch.org/)
 - [MyScale](https://myscale.com)
+- [QdrantCloud](https://cloud.qdrant.io/)
+- [zilliz](https://cloud.zilliz.com/signup)
   
 # Libraries & Engines
 ## Multidimensional data / Vectors
@@ -37,6 +39,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [USearch](https://github.com/unum-cloud/usearch)
 - [vearch](https://vearch.github.io/)
 - [MRPT](https://github.com/vioshyvo/mrpt)
+- [milvus](https://milvus.io/)
 
 ## Texts
 
