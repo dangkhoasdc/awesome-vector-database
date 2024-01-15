@@ -16,6 +16,9 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [MyScale](https://myscale.com)
 - [QdrantCloud](https://cloud.qdrant.io/)
 - [zilliz](https://cloud.zilliz.com/signup)
+
+## Comparisons
+- [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
   
 # Libraries & Engines
 ## Multidimensional data / Vectors
