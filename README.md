@@ -25,7 +25,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 ## Multidimensional data / Vectors
 
 - :star: 🥇 [Vector DB Feature Matrix](https://docs.google.com/spreadsheets/d/170HErOyOkLDjQfy3TJ6a3XXXM1rHvw_779Sit-KT7uc/edit#gid=0)
-- :star: [Faiss](https://faiss.ai/)
+- :star: [Faiss](https://faiss.ai/) [Paper](https://arxiv.org/pdf/2401.08281.pdf)
 - [Typesense](https://typesense.org/)
 - [Qdrant](https://qdrant.tech/)
   - [Video tutorial](https://youtu.be/LRcZ9pbGnno), [Notebook](https://github.com/qdrant/examples/blob/master/qdrant_101_getting_started/getting_started.ipynb)
