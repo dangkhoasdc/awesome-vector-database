@@ -45,6 +45,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [MRPT](https://github.com/vioshyvo/mrpt)
 - [milvus](https://milvus.io/)
 - [infinity](https://github.com/infiniflow/infinity)
+- [havenask](https://github.com/alibaba/havenask)
 
 ## Texts
 
