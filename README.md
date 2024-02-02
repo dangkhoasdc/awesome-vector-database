@@ -17,6 +17,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [QdrantCloud](https://cloud.qdrant.io/)
 - [zilliz](https://cloud.zilliz.com/signup)
 - [OpenSearch's AlibabaCloud](https://www.alibabacloud.com/product/opensearch)
+- [Typesense's Cloud](https://cloud.typesense.org)
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
