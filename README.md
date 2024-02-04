@@ -121,6 +121,7 @@ Source: A survey of product quantization.
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
 - Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
 - Khan, Saim, et al. "[BANG: Billion-Scale Approximate Nearest Neighbor Search using a Single GPU.](https://arxiv.org/pdf/2401.11324.pdf)" arXiv preprint arXiv:2401.11324 (2024).
+- Ootomo, Hiroyuki, et al. "[Cagra: Highly parallel graph construction and approximate nearest neighbor search for gpus.](https://arxiv.org/pdf/2308.15136.pdf)" arXiv preprint arXiv:2308.15136 (2023).
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
