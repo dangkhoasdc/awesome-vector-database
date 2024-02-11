@@ -125,6 +125,7 @@ Source: A survey of product quantization.
 - Khan, Saim, et al. "[BANG: Billion-Scale Approximate Nearest Neighbor Search using a Single GPU.](https://arxiv.org/pdf/2401.11324.pdf)" arXiv preprint arXiv:2401.11324 (2024).
 - Ootomo, Hiroyuki, et al. "[Cagra: Highly parallel graph construction and approximate nearest neighbor search for gpus.](https://arxiv.org/pdf/2308.15136.pdf)" arXiv preprint arXiv:2308.15136 (2023).
 - Oguri, Yutaro, and Yusuke Matsui. "[Theoretical and Empirical Analysis of Adaptive Entry Point Selection for Graph-based Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2402.04713.pdf)" arXiv preprint arXiv:2402.04713 (2024).
+- Oguri, Yutaro, and Yusuke Matsui. "[General and practical tuning method for off-the-shelf graph-based index: Sisap indexing challenge report by team utokyo.](https://arxiv.org/pdf/2309.00472.pdf)" International Conference on Similarity Search and Applications. Cham: Springer Nature Switzerland, 2023.
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
