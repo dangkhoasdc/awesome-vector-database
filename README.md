@@ -64,6 +64,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
 - [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com)
+    - [2021 Result](https://proceedings.mlr.press/v176/simhadri22a/simhadri22a.pdf)
 - [BEIR](https://github.com/beir-cellar/beir)
 - [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool)
 - [Qdrant's Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
@@ -136,6 +137,8 @@ Source: A survey of product quantization.
 ## Others
 - [Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices](https://arxiv.org/abs/2312.07517)
 - Gao, Jianyang, and Cheng Long. "[High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations.](https://dl.acm.org/doi/pdf/10.1145/3589282)" Proceedings of the ACM on Management of Data 1.2 (2023): 1-27.
+- [Approximate Nearest Neighbor Search in Recommender Systems](https://big-ann-benchmarks.com/neurips23_slides/ANNS_for_recommendation_systems_Yury.pdf). Yury Malkov.
+- [Accelerating vector search on the GPU with RAPIDS RAFT](https://big-ann-benchmarks.com/neurips23_slides/NVIDIA_Corey.pdf). Corey Nolet
 
 
 ## Evaluation & Metrics
