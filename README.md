@@ -19,6 +19,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [OpenSearch's AlibabaCloud](https://www.alibabacloud.com/product/opensearch)
 - [Typesense's Cloud](https://cloud.typesense.org)
 - [MongoDB Atlas Vector Search](https://www.mongodb.com/products/platform/atlas-vector-search)
+- [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
 
 
 ## Comparisons
