@@ -112,7 +112,7 @@ Source: A survey of product quantization.
 - Matsui, Yusuke, Ryota Hinami, and Shin'ichi Satoh. "Reconfigurable Inverted Index." Proceedings of the 26th ACM international conference on Multimedia. 2018. [[Paper](https://dl.acm.org/ft_gateway.cfm?id=3240630), [Project](https://yusukematsui.me/project/rii/), [Code](https://github.com/matsui528/rii)]
 - Aguerrebere, Cecilia, et al. "[Similarity search in the blink of an eye with compressed indices.](https://arxiv.org/pdf/2304.04759.pdf)" arXiv preprint arXiv:2304.04759 (2023).
 
-## Graph-based & Tree-based Methods
+## Graph-based Methods
 
 - :star: Wang, Zeyu, et al. "[Graph-and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions](https://helios2.mi.parisdescartes.fr/~themisp/publications/bulletin23.pdf)." Data Engineering (2023): 3-21.
 - :star: A comprehensive survey and experimental comparison of graph-based approximate nearest neighbor search. Wang, Mengzhao, Xiaoliang Xu, Qiang Yue, and Yuxiang Wang. [[Paper](https://arxiv.org/pdf/2101.12631.pdf), [Code](https://github.com/Lsyhprum/WEAVESS)]
@@ -121,12 +121,15 @@ Source: A survey of product quantization.
 - FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search. Chen, Patrick, Wei-Cheng Chang, Jyun-Yu Jiang, Hsiang-Fu Yu, Inderjit Dhillon, and Cho-Jui Hsieh [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318), [Video](https://www.youtube.com/watch?v=OsxZG2XfcZA)]
 - NSG : Navigating Spread-out Graph For Approximate Nearest Neighbor Search. Fu, Cong, Chao Xiang, Changxu Wang, and Deng Cai. [[Paper](https://www.vldb.org/pvldb/vol12/p461-fu.pdf), [Code](https://github.com/ZJULearning/nsg)]
 - EFANNA : Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph. Cong Fu, Deng Cai. [[Paper](https://arxiv.org/abs/1609.07228), [Code](https://github.com/ZJULearning/efanna/tree/master)]
-- Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
-- Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
 - Khan, Saim, et al. "[BANG: Billion-Scale Approximate Nearest Neighbor Search using a Single GPU.](https://arxiv.org/pdf/2401.11324.pdf)" arXiv preprint arXiv:2401.11324 (2024).
 - Ootomo, Hiroyuki, et al. "[Cagra: Highly parallel graph construction and approximate nearest neighbor search for gpus.](https://arxiv.org/pdf/2308.15136.pdf)" arXiv preprint arXiv:2308.15136 (2023).
 - Oguri, Yutaro, and Yusuke Matsui. "[Theoretical and Empirical Analysis of Adaptive Entry Point Selection for Graph-based Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2402.04713.pdf)" arXiv preprint arXiv:2402.04713 (2024).
 - Oguri, Yutaro, and Yusuke Matsui. "[General and practical tuning method for off-the-shelf graph-based index: Sisap indexing challenge report by team utokyo.](https://arxiv.org/pdf/2309.00472.pdf)" International Conference on Similarity Search and Applications. Cham: Springer Nature Switzerland, 2023.
+
+## Tree-based Methods
+- Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
+- Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
+- Engels, Joshua, et al. "[Approximate Nearest Neighbor Search with Window Filters](https://arxiv.org/html/2402.00943v1)." arXiv preprint arXiv:2402.00943 (2024).
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
