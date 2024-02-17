@@ -149,10 +149,10 @@ Source: A survey of product quantization.
 - Which BM25 do you mean? A large-scale reproducibility study of scoring variants. Kamphuis, Chris, Arjen P. de Vries, Leonid Boytsov, and Jimmy Lin [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148026/)]
 
 ## 📰 Articles & Talks
-- What is a Vector Database? [[Article](https://www.pinecone.io/learn/vector-database/)]
+- [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
 - Vector databases (Part 1): [What makes each one different?](https://thedataquarry.com/posts/vector-db-1/)
-- eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine [[Article](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/?utm_source=substack&utm_medium=email)]
-- Computer Vision Meetup: Computer Vision Applications at Scale with Vector Databases [[Video](https://www.youtube.com/watch?v=YTIDj7jeRbs)]
+- [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
+- [Computer Vision Meetup: Computer Vision Applications at Scale with Vector Databases](https://www.youtube.com/watch?v=YTIDj7jeRbs)
 - [How to choose your vector database in 2023?](https://www.sicara.fr/blog-technique/how-to-choose-your-vector-database-in-2023)
 - [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
 - [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
