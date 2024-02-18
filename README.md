@@ -112,6 +112,7 @@ Source: A survey of product quantization.
 - LibVQ: A Toolkit for Optimizing Vector Quantization and Efficient Neural Retrieval. Li, Chaofan, Zheng Liu, Shitao Xiao, Yingxia Shao, Defu Lian, and Zhao Cao. [[Paper](https://dl.acm.org/doi/10.1145/3539618.3591799), [Code](https://github.com/staoxiao/LibVQ/tree/demo)]
 - Matsui, Yusuke, Ryota Hinami, and Shin'ichi Satoh. "Reconfigurable Inverted Index." Proceedings of the 26th ACM international conference on Multimedia. 2018. [[Paper](https://dl.acm.org/ft_gateway.cfm?id=3240630), [Project](https://yusukematsui.me/project/rii/), [Code](https://github.com/matsui528/rii)]
 - Aguerrebere, Cecilia, et al. "[Similarity search in the blink of an eye with compressed indices.](https://arxiv.org/pdf/2304.04759.pdf)" arXiv preprint arXiv:2304.04759 (2023).
+- Huijben, Iris, et al. "[Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/pdf/2401.14732.pdf)." arXiv preprint arXiv:2401.14732 (2024). [[Code](https://github.com/facebookresearch/Qinco)]
 
 ## Graph-based Methods
 
