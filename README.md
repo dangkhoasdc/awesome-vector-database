@@ -127,6 +127,7 @@ Source: A survey of product quantization.
 - Ootomo, Hiroyuki, et al. "[Cagra: Highly parallel graph construction and approximate nearest neighbor search for gpus.](https://arxiv.org/pdf/2308.15136.pdf)" arXiv preprint arXiv:2308.15136 (2023).
 - Oguri, Yutaro, and Yusuke Matsui. "[Theoretical and Empirical Analysis of Adaptive Entry Point Selection for Graph-based Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2402.04713.pdf)" arXiv preprint arXiv:2402.04713 (2024).
 - Oguri, Yutaro, and Yusuke Matsui. "[General and practical tuning method for off-the-shelf graph-based index: Sisap indexing challenge report by team utokyo.](https://arxiv.org/pdf/2309.00472.pdf)" International Conference on Similarity Search and Applications. Cham: Springer Nature Switzerland, 2023.
+- Wang, Mengzhao, et al. "[Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment](https://arxiv.org/pdf/2401.02116.pdf)." arXiv preprint arXiv:2401.02116 (2024).
 
 ## Tree-based Methods
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
