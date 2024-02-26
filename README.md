@@ -129,6 +129,8 @@ Source: A survey of product quantization.
 - Oguri, Yutaro, and Yusuke Matsui. "[General and practical tuning method for off-the-shelf graph-based index: Sisap indexing challenge report by team utokyo.](https://arxiv.org/pdf/2309.00472.pdf)" International Conference on Similarity Search and Applications. Cham: Springer Nature Switzerland, 2023.
 - Wang, Mengzhao, et al. "[Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment](https://arxiv.org/pdf/2401.02116.pdf)." arXiv preprint arXiv:2401.02116 (2024).
 - Manohar, Magdalen Dobson, et al. "[ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms](https://dl.acm.org/doi/pdf/10.1145/3627535.3638475)." Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming. 2024. [[Code](https://github.com/cmuparlay/ParlayANN)]
+- Wang, Mengzhao, et al. "[An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint](https://proceedings.neurips.cc/paper_files/paper/2023/file/32e41d6b0a51a63a9a90697da19d235d-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
+- Yu, Shangdi, et al. "[Pecann: Parallel efficient clustering with graph-based approximate nearest neighbor search](https://arxiv.org/pdf/2312.03940.pdf)." arXiv preprint arXiv:2312.03940 (2023).
 
 ## Tree-based Methods
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
@@ -151,6 +153,7 @@ Source: A survey of product quantization.
 - Gao, Jianyang, and Cheng Long. "[High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations.](https://dl.acm.org/doi/pdf/10.1145/3589282)" Proceedings of the ACM on Management of Data 1.2 (2023): 1-27.
 - [Approximate Nearest Neighbor Search in Recommender Systems](https://big-ann-benchmarks.com/neurips23_slides/ANNS_for_recommendation_systems_Yury.pdf). Yury Malkov.
 - [Accelerating vector search on the GPU with RAPIDS RAFT](https://big-ann-benchmarks.com/neurips23_slides/NVIDIA_Corey.pdf). Corey Nolet
+- Gupta, Gaurav, et al. "[CAPS: A Practical Partition Index for Filtered Similarity Search](https://arxiv.org/pdf/2308.15014.pdf)." arXiv preprint arXiv:2308.15014 (2023).
 
 
 ## Evaluation & Metrics
