@@ -70,6 +70,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool)
 - [Qdrant's Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
 - [MyScale's Vector Database Benchmark](https://myscale.github.io/benchmark/#/benchmark)
+- Li, Wen, et al. "[Approximate nearest neighbor search on high dimensional data—experiments, analyses, and improvement](https://arxiv.org/pdf/1610.02455.pdf)." IEEE Transactions on Knowledge and Data Engineering 32.8 (2019): 1475-1488.
 
 # 📚 Books 
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
@@ -113,6 +114,7 @@ Source: A survey of product quantization.
 - Matsui, Yusuke, Ryota Hinami, and Shin'ichi Satoh. "Reconfigurable Inverted Index." Proceedings of the 26th ACM international conference on Multimedia. 2018. [[Paper](https://dl.acm.org/ft_gateway.cfm?id=3240630), [Project](https://yusukematsui.me/project/rii/), [Code](https://github.com/matsui528/rii)]
 - Aguerrebere, Cecilia, et al. "[Similarity search in the blink of an eye with compressed indices.](https://arxiv.org/pdf/2304.04759.pdf)" arXiv preprint arXiv:2304.04759 (2023).
 - Huijben, Iris, et al. "[Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/pdf/2401.14732.pdf)." arXiv preprint arXiv:2401.14732 (2024). [[Code](https://github.com/facebookresearch/Qinco)]
+- Rege, Aniket, et al. "[Adanns: A framework for adaptive semantic search](https://proceedings.neurips.cc/paper_files/paper/2023/file/f062da1973ac9ac61fc6d44dd7fa309f-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
 
 ## Graph-based Methods
 
@@ -131,6 +133,9 @@ Source: A survey of product quantization.
 - Manohar, Magdalen Dobson, et al. "[ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms](https://dl.acm.org/doi/pdf/10.1145/3627535.3638475)." Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming. 2024. [[Code](https://github.com/cmuparlay/ParlayANN)]
 - Wang, Mengzhao, et al. "[An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint](https://proceedings.neurips.cc/paper_files/paper/2023/file/32e41d6b0a51a63a9a90697da19d235d-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
 - Yu, Shangdi, et al. "[Pecann: Parallel efficient clustering with graph-based approximate nearest neighbor search](https://arxiv.org/pdf/2312.03940.pdf)." arXiv preprint arXiv:2312.03940 (2023).
+- Azizi, Ilias, Karima Echihabi, and Themis Palpanas. "[ELPIS: Graph-Based Similarity Search for Scalable Data Science](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)." Proceedings of the VLDB Endowment 16.6 (2023): 1548-1559.
+- Indyk, Piotr, and Haike Xu. "[Worst-case performance of popular approximate nearest neighbor search implementations: Guarantees and limitations](https://proceedings.neurips.cc/paper_files/paper/2023/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
+
 
 ## Tree-based Methods
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
