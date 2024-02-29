@@ -136,6 +136,7 @@ Source: A survey of product quantization.
 - Azizi, Ilias, Karima Echihabi, and Themis Palpanas. "[ELPIS: Graph-Based Similarity Search for Scalable Data Science](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)." Proceedings of the VLDB Endowment 16.6 (2023): 1548-1559.
 - Indyk, Piotr, and Haike Xu. "[Worst-case performance of popular approximate nearest neighbor search implementations: Guarantees and limitations](https://proceedings.neurips.cc/paper_files/paper/2023/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
 - Liu, Jun, et al. "[Optimizing Graph-based Approximate Nearest Neighbor Search: Stronger and Smarter.](https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/dacb55cd-fe0a-4b00-9fa0-8f32e3243930.pdf)" 2022 23rd IEEE International Conference on Mobile Data Management (MDM). IEEE, 2022.
+- Wang, Hui, Yong Wang, and Wan-Lei Zhao. "[Graph-based Approximate NN Search: A Revisit](https://arxiv.org/pdf/2204.00824.pdf)." arXiv preprint arXiv:2204.00824 (2022).
 
 
 ## Tree-based Methods
