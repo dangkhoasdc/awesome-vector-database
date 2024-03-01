@@ -163,6 +163,7 @@ Source: A survey of product quantization.
 - [Approximate Nearest Neighbor Search in Recommender Systems](https://big-ann-benchmarks.com/neurips23_slides/ANNS_for_recommendation_systems_Yury.pdf). Yury Malkov.
 - [Accelerating vector search on the GPU with RAPIDS RAFT](https://big-ann-benchmarks.com/neurips23_slides/NVIDIA_Corey.pdf). Corey Nolet
 - Gupta, Gaurav, et al. "[CAPS: A Practical Partition Index for Filtered Similarity Search](https://arxiv.org/pdf/2308.15014.pdf)." arXiv preprint arXiv:2308.15014 (2023).
+- Zhu, Yuhao. "[RTNN: accelerating neighbor search using hardware ray tracing](https://arxiv.org/pdf/2201.01366.pdf)." Proceedings of the 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming. 2022. [[Code](https://github.com/horizon-research/rtnn)]
 
 
 ## Evaluation & Metrics
