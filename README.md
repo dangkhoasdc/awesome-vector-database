@@ -156,6 +156,11 @@ Source: A survey of product quantization.
 - :star: Iterative quantization: A procrustean approach to learning binary codes for large-scale image retrieval. Gong, Yunchao, Svetlana Lazebnik, Albert Gordo, and Florent Perronnin [[Paper](https://slazebni.cs.illinois.edu/publications/ITQ.pdf), [Python code](https://github.com/twistedcubic/learn-to-hash/blob/master/itq.py), [Matlab code](https://github.com/dangkhoasdc/sah/tree/master/itq)]
 - Gan, Yukang, et al. "[Binary Embedding-based Retrieval at Tencent](https://arxiv.org/pdf/2302.08714)." arXiv preprint arXiv:2302.08714 (2023).
 
+## Other Approaches
+- Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
+- Li, Yuliang, et al. "[Index-based, high-dimensional, cosine threshold querying with optimality guarantees](https://arxiv.org/pdf/1812.07695.pdf)." Theory of Computing Systems 65 (2021): 42-83.
+- Chen, Yewang, et al. "[Semi-convex hull tree: Fast nearest neighbor queries for large scale data on GPUs](https://www.researchgate.net/profile/Yewang-Chen/publication/330028721_Semi-Convex_Hull_Tree_Fast_Nearest_Neighbor_Queries_for_Large_Scale_Data_on_GPUs/links/5c316845299bf12be3b1ca36/Semi-Convex-Hull-Tree-Fast-Nearest-Neighbor-Queries-for-Large-Scale-Data-on-GPUs.pdf)." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
+
 ## Systems
 
 - Qin, An, et al. "[Maze: A Cost-Efficient Video Deduplication System at Web-scale](https://dl.acm.org/doi/pdf/10.1145/3503161.3548145)." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
