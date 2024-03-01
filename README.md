@@ -137,6 +137,8 @@ Source: A survey of product quantization.
 - Indyk, Piotr, and Haike Xu. "[Worst-case performance of popular approximate nearest neighbor search implementations: Guarantees and limitations](https://proceedings.neurips.cc/paper_files/paper/2023/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
 - Liu, Jun, et al. "[Optimizing Graph-based Approximate Nearest Neighbor Search: Stronger and Smarter.](https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/dacb55cd-fe0a-4b00-9fa0-8f32e3243930.pdf)" 2022 23rd IEEE International Conference on Mobile Data Management (MDM). IEEE, 2022.
 - Wang, Hui, Yong Wang, and Wan-Lei Zhao. "[Graph-based Approximate NN Search: A Revisit](https://arxiv.org/pdf/2204.00824.pdf)." arXiv preprint arXiv:2204.00824 (2022).
+- Peng, Zhen, et al. "[Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via Intra-Query Parallelism](https://arxiv.org/pdf/2201.13007.pdf)." arXiv preprint arXiv:2201.13007 (2022).
+- Lu, Kejing, et al. "[HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search](https://www.vldb.org/pvldb/vol15/p246-lu.pdf)." Proceedings of the VLDB Endowment 15.2 (2021): 246-258. [[Code](https://github.com/chuanxiao1983/HVS)]
 
 
 ## Tree-based Methods
