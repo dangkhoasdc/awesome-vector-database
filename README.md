@@ -115,6 +115,8 @@ Source: A survey of product quantization.
 - Aguerrebere, Cecilia, et al. "[Similarity search in the blink of an eye with compressed indices.](https://arxiv.org/pdf/2304.04759.pdf)" arXiv preprint arXiv:2304.04759 (2023).
 - Huijben, Iris, et al. "[Residual Quantization with Implicit Neural Codebooks](https://arxiv.org/pdf/2401.14732.pdf)." arXiv preprint arXiv:2401.14732 (2024). [[Code](https://github.com/facebookresearch/Qinco)]
 - Rege, Aniket, et al. "[Adanns: A framework for adaptive semantic search](https://proceedings.neurips.cc/paper_files/paper/2023/file/f062da1973ac9ac61fc6d44dd7fa309f-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
+- Amara, Kenza, et al. "[Nearest neighbor search with compact codes: A decoder perspective](https://arxiv.org/pdf/2112.09568)." Proceedings of the 2022 International Conference on Multimedia Retrieval. 2022.
+- Krishnan, Aditya, and Edo Liberty. "[Projective Clustering Product Quantization](https://arxiv.org/pdf/2112.02179.pdf)." arXiv preprint arXiv:2112.02179 (2021).
 
 ## Graph-based Methods
 
@@ -139,6 +141,7 @@ Source: A survey of product quantization.
 - Wang, Hui, Yong Wang, and Wan-Lei Zhao. "[Graph-based Approximate NN Search: A Revisit](https://arxiv.org/pdf/2204.00824.pdf)." arXiv preprint arXiv:2204.00824 (2022).
 - Peng, Zhen, et al. "[Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via Intra-Query Parallelism](https://arxiv.org/pdf/2201.13007.pdf)." arXiv preprint arXiv:2201.13007 (2022).
 - Lu, Kejing, et al. "[HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search](https://www.vldb.org/pvldb/vol15/p246-lu.pdf)." Proceedings of the VLDB Endowment 15.2 (2021): 246-258. [[Code](https://github.com/chuanxiao1983/HVS)]
+- Yingfan, Liu, Cheng Hong, and Cui Jiangtao. "[Revisiting $ k $-Nearest Neighbor Graph Construction on High-Dimensional Data: Experiments and Analyses](https://arxiv.org/pdf/2112.02234)." arXiv preprint arXiv:2112.02234 (2021).
 
 
 ## Tree-based Methods
