@@ -172,6 +172,7 @@ Source: A survey of product quantization.
 - [Accelerating vector search on the GPU with RAPIDS RAFT](https://big-ann-benchmarks.com/neurips23_slides/NVIDIA_Corey.pdf). Corey Nolet
 - Gupta, Gaurav, et al. "[CAPS: A Practical Partition Index for Filtered Similarity Search](https://arxiv.org/pdf/2308.15014.pdf)." arXiv preprint arXiv:2308.15014 (2023).
 - Zhu, Yuhao. "[RTNN: accelerating neighbor search using hardware ray tracing](https://arxiv.org/pdf/2201.01366.pdf)." Proceedings of the 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming. 2022. [[Code](https://github.com/horizon-research/rtnn)]
+- Levi, Asaf, et al. "[Physical vs. Logical Indexing with {IDEA}: Inverted {Deduplication-Aware} Index](https://www.usenix.org/system/files/fast24-levi.pdf)." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [[Code](https://github.com/asaflevi0812/IDEA)]
 
 
 ## Evaluation & Metrics
