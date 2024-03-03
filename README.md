@@ -117,6 +117,7 @@ Source: A survey of product quantization.
 - Rege, Aniket, et al. "[Adanns: A framework for adaptive semantic search](https://proceedings.neurips.cc/paper_files/paper/2023/file/f062da1973ac9ac61fc6d44dd7fa309f-Paper-Conference.pdf)." Advances in Neural Information Processing Systems 36 (2024).
 - Amara, Kenza, et al. "[Nearest neighbor search with compact codes: A decoder perspective](https://arxiv.org/pdf/2112.09568)." Proceedings of the 2022 International Conference on Multimedia Retrieval. 2022.
 - Krishnan, Aditya, and Edo Liberty. "[Projective Clustering Product Quantization](https://arxiv.org/pdf/2112.02179.pdf)." arXiv preprint arXiv:2112.02179 (2021).
+- Noh, Haechan, Taeho Kim, and Jae-Pil Heo. "[Product quantizer aware inverted index for scalable nearest neighbor search](https://openaccess.thecvf.com/content/ICCV2021/papers/Noh_Product_Quantizer_Aware_Inverted_Index_for_Scalable_Nearest_Neighbor_Search_ICCV_2021_paper.pdf)." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
 
 ## Graph-based Methods
 
