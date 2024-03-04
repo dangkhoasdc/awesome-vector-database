@@ -156,6 +156,7 @@ Source: A survey of product quantization.
 - :star: A survey on deep hashing methods. Luo, Xiao, Haixin Wang, Daqing Wu, Chong Chen, Minghua Deng, Jianqiang Huang, and Xian-Sheng Hua. [[Paper](https://dl.acm.org/doi/full/10.1145/3532624)]
 - :star: Iterative quantization: A procrustean approach to learning binary codes for large-scale image retrieval. Gong, Yunchao, Svetlana Lazebnik, Albert Gordo, and Florent Perronnin [[Paper](https://slazebni.cs.illinois.edu/publications/ITQ.pdf), [Python code](https://github.com/twistedcubic/learn-to-hash/blob/master/itq.py), [Matlab code](https://github.com/dangkhoasdc/sah/tree/master/itq)]
 - Gan, Yukang, et al. "[Binary Embedding-based Retrieval at Tencent](https://arxiv.org/pdf/2302.08714)." arXiv preprint arXiv:2302.08714 (2023).
+- Yan, Bencheng, et al. "[Binary code based hash embedding for web-scale applications](https://arxiv.org/pdf/2109.02471)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
 
 ## Other Approaches
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
