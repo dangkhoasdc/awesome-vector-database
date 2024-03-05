@@ -143,6 +143,7 @@ Source: A survey of product quantization.
 - Peng, Zhen, et al. "[Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via Intra-Query Parallelism](https://arxiv.org/pdf/2201.13007.pdf)." arXiv preprint arXiv:2201.13007 (2022).
 - Lu, Kejing, et al. "[HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search](https://www.vldb.org/pvldb/vol15/p246-lu.pdf)." Proceedings of the VLDB Endowment 15.2 (2021): 246-258. [[Code](https://github.com/chuanxiao1983/HVS)]
 - Yingfan, Liu, Cheng Hong, and Cui Jiangtao. "[Revisiting $ k $-Nearest Neighbor Graph Construction on High-Dimensional Data: Experiments and Analyses](https://arxiv.org/pdf/2112.02234)." arXiv preprint arXiv:2112.02234 (2021).
+- Zhu, Dantong, and Minjia Zhang. "[Understanding and Generalizing Monotonic Proximity Graphs for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2107.13052)." arXiv preprint arXiv:2107.13052 (2021).
 
 
 ## Tree-based Methods
