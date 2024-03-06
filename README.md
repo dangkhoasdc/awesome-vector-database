@@ -118,6 +118,7 @@ Source: A survey of product quantization.
 - Amara, Kenza, et al. "[Nearest neighbor search with compact codes: A decoder perspective](https://arxiv.org/pdf/2112.09568)." Proceedings of the 2022 International Conference on Multimedia Retrieval. 2022.
 - Krishnan, Aditya, and Edo Liberty. "[Projective Clustering Product Quantization](https://arxiv.org/pdf/2112.02179.pdf)." arXiv preprint arXiv:2112.02179 (2021).
 - Noh, Haechan, Taeho Kim, and Jae-Pil Heo. "[Product quantizer aware inverted index for scalable nearest neighbor search](https://openaccess.thecvf.com/content/ICCV2021/papers/Noh_Product_Quantizer_Aware_Inverted_Index_for_Scalable_Nearest_Neighbor_Search_ICCV_2021_paper.pdf)." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
+- Zhan, Jingtao, et al. "[Jointly optimizing query encoder and product quantization to improve retrieval performance](https://arxiv.org/pdf/2108.00644)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
 
 ## Graph-based Methods
 
