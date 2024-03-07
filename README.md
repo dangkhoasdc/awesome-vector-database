@@ -160,6 +160,7 @@ Source: A survey of product quantization.
 - Gan, Yukang, et al. "[Binary Embedding-based Retrieval at Tencent](https://arxiv.org/pdf/2302.08714)." arXiv preprint arXiv:2302.08714 (2023).
 - Yan, Bencheng, et al. "[Binary code based hash embedding for web-scale applications](https://arxiv.org/pdf/2109.02471)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
 - Weng, Zhenyu, and Yuesheng Zhu. "[Unsupervised Online Hashing with Multi-Bit Quantization](https://openaccess.thecvf.com/content/ACCV2022/papers/Weng_Unsupervised_Online_Hashing_with_Multi-Bit_Quantization_ACCV_2022_paper.pdf)." Proceedings of the Asian Conference on Computer Vision. 2022.
+- Huang, Qiang, Yifan Lei, and Anthony KH Tung. "[Point-to-hyperplane nearest neighbor search beyond the unit hypersphere](https://dl.acm.org/doi/pdf/10.1145/3448016.3457240)." Proceedings of the 2021 International Conference on Management of Data. 2021.
 
 ## Other Approaches
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
