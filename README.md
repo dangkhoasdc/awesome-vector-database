@@ -165,6 +165,7 @@ Source: A survey of product quantization.
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
 - Li, Yuliang, et al. "[Index-based, high-dimensional, cosine threshold querying with optimality guarantees](https://arxiv.org/pdf/1812.07695.pdf)." Theory of Computing Systems 65 (2021): 42-83.
 - Chen, Yewang, et al. "[Semi-convex hull tree: Fast nearest neighbor queries for large scale data on GPUs](https://www.researchgate.net/profile/Yewang-Chen/publication/330028721_Semi-Convex_Hull_Tree_Fast_Nearest_Neighbor_Queries_for_Large_Scale_Data_on_GPUs/links/5c316845299bf12be3b1ca36/Semi-Convex-Hull-Tree-Fast-Nearest-Neighbor-Queries-for-Large-Scale-Data-on-GPUs.pdf)." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
+- Engels, Joshua, Benjamin Coleman, and Anshumali Shrivastava. "[Practical near neighbor search via group testing](https://arxiv.org/pdf/2106.11565.pdf)." Advances in Neural Information Processing Systems 34 (2021): 9950-9962. [[Supplement](https://proceedings.neurips.cc/paper_files/paper/2021/file/5248e5118c84beea359b6ea385393661-Supplemental.pdf)]
 
 ## Systems
 
