@@ -146,7 +146,7 @@ Source: A survey of product quantization.
 - Yingfan, Liu, Cheng Hong, and Cui Jiangtao. "[Revisiting $ k $-Nearest Neighbor Graph Construction on High-Dimensional Data: Experiments and Analyses](https://arxiv.org/pdf/2112.02234)." arXiv preprint arXiv:2112.02234 (2021).
 - Zhu, Dantong, and Minjia Zhang. "[Understanding and Generalizing Monotonic Proximity Graphs for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2107.13052)." arXiv preprint arXiv:2107.13052 (2021).
 - Gottesbüren, Lars, et al. "[Unleashing Graph Partitioning for Large-Scale Nearest Neighbor Search](https://arxiv.org/pdf/2403.01797v1.pdf)." arXiv preprint arXiv:2403.01797 (2024).
-
+- Singh, Aditi, et al. "[Freshdiskann: A fast and accurate graph-based ann index for streaming similarity search](https://arxiv.org/pdf/2105.09613.pdf)." arXiv preprint arXiv:2105.09613 (2021).
 
 ## Tree-based Methods
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
