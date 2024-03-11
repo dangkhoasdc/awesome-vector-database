@@ -152,6 +152,7 @@ Source: A survey of product quantization.
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
 - Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
 - Engels, Joshua, et al. "[Approximate Nearest Neighbor Search with Window Filters](https://arxiv.org/html/2402.00943v1)." arXiv preprint arXiv:2402.00943 (2024).
+- Song, Yang, et al. "[ProMIPS: Efficient high-dimensional C-approximate maximum inner product search with a lightweight index](https://arxiv.org/pdf/2104.04406)." 2021 IEEE 37th International Conference on Data Engineering (ICDE). IEEE, 2021.
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
