@@ -96,6 +96,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 ## Survey
 - :star: Pan, James Jie, Jianguo Wang, and Guoliang Li. "Survey of Vector Database Management Systems." arXiv preprint arXiv:2310.14021 (2023). [[Paper](https://arxiv.org/abs/2310.14021)]
 - Nearest neighbor search: the old, the new, and the impossible. Andoni, Alexandr. [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/55090/587638612-MIT.pdf?sequence=2)]
+
+
 ## Quantization
 ![](https://raw.githubusercontent.com/wiki/facebookresearch/faiss/PQ_variants_Faiss_annotated.png)
 Source: A survey of product quantization.
@@ -119,6 +121,7 @@ Source: A survey of product quantization.
 - Krishnan, Aditya, and Edo Liberty. "[Projective Clustering Product Quantization](https://arxiv.org/pdf/2112.02179.pdf)." arXiv preprint arXiv:2112.02179 (2021).
 - Noh, Haechan, Taeho Kim, and Jae-Pil Heo. "[Product quantizer aware inverted index for scalable nearest neighbor search](https://openaccess.thecvf.com/content/ICCV2021/papers/Noh_Product_Quantizer_Aware_Inverted_Index_for_Scalable_Nearest_Neighbor_Search_ICCV_2021_paper.pdf)." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
 - Zhan, Jingtao, et al. "[Jointly optimizing query encoder and product quantization to improve retrieval performance](https://arxiv.org/pdf/2108.00644)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
+- Wang, Runhui, and Dong Deng. "[DeltaPQ: lossless product quantization code compression for high dimensional similarity search](http://vldb.org/pvldb/vol13/p3603-wang.pdf)." Proceedings of the VLDB Endowment 13.13 (2020): 3603-3616.
 
 ## Graph-based Methods
 
@@ -164,6 +167,8 @@ Source: A survey of product quantization.
 - Yan, Bencheng, et al. "[Binary code based hash embedding for web-scale applications](https://arxiv.org/pdf/2109.02471)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
 - Weng, Zhenyu, and Yuesheng Zhu. "[Unsupervised Online Hashing with Multi-Bit Quantization](https://openaccess.thecvf.com/content/ACCV2022/papers/Weng_Unsupervised_Online_Hashing_with_Multi-Bit_Quantization_ACCV_2022_paper.pdf)." Proceedings of the Asian Conference on Computer Vision. 2022.
 - Huang, Qiang, Yifan Lei, and Anthony KH Tung. "[Point-to-hyperplane nearest neighbor search beyond the unit hypersphere](https://dl.acm.org/doi/pdf/10.1145/3448016.3457240)." Proceedings of the 2021 International Conference on Management of Data. 2021.
+- Weng, Zhenyu, Yuesheng Zhu, and Ruixin Liu. "[Fast Search on Binary Codes by Weighted Hamming Distance](https://arxiv.org/pdf/2009.08591)." arXiv preprint arXiv:2009.08591 (2020).
+- Jian, Xiaozheng, et al. "[Fast top-K cosine similarity search through XOR-friendly binary quantization on GPUs](https://arxiv.org/pdf/2008.02002)." arXiv preprint arXiv:2008.02002 (2020).
 
 ## Other Approaches
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
@@ -174,6 +179,7 @@ Source: A survey of product quantization.
 ## Systems
 
 - Qin, An, et al. "[Maze: A Cost-Efficient Video Deduplication System at Web-scale](https://dl.acm.org/doi/pdf/10.1145/3503161.3548145)." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
+- Doshi, Ishita, et al. "[LANNS: a web-scale approximate nearest neighbor lookup system](https://arxiv.org/pdf/2010.09426.pdf)." arXiv preprint arXiv:2010.09426 (2020).
 
 ## Others
 - [Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices](https://arxiv.org/abs/2312.07517)
