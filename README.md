@@ -122,11 +122,13 @@ Source: A survey of product quantization.
 - Noh, Haechan, Taeho Kim, and Jae-Pil Heo. "[Product quantizer aware inverted index for scalable nearest neighbor search](https://openaccess.thecvf.com/content/ICCV2021/papers/Noh_Product_Quantizer_Aware_Inverted_Index_for_Scalable_Nearest_Neighbor_Search_ICCV_2021_paper.pdf)." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
 - Zhan, Jingtao, et al. "[Jointly optimizing query encoder and product quantization to improve retrieval performance](https://arxiv.org/pdf/2108.00644)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
 - Wang, Runhui, and Dong Deng. "[DeltaPQ: lossless product quantization code compression for high dimensional similarity search](http://vldb.org/pvldb/vol13/p3603-wang.pdf)." Proceedings of the VLDB Endowment 13.13 (2020): 3603-3616.
+- Jang, Young Kyun, and Nam Ik Cho. "[Generalized product quantization network for semi-supervised image retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jang_Generalized_Product_Quantization_Network_for_Semi-Supervised_Image_Retrieval_CVPR_2020_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
 
 ## Graph-based Methods
 
 - :star: Wang, Zeyu, et al. "[Graph-and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions](https://helios2.mi.parisdescartes.fr/~themisp/publications/bulletin23.pdf)." Data Engineering (2023): 3-21.
 - :star: A comprehensive survey and experimental comparison of graph-based approximate nearest neighbor search. Wang, Mengzhao, Xiaoliang Xu, Qiang Yue, and Yuxiang Wang. [[Paper](https://arxiv.org/pdf/2101.12631.pdf), [Code](https://github.com/Lsyhprum/WEAVESS)]
+- Lin, Peng-Cheng, and Wan-Lei Zhao. "[Graph based nearest neighbor search: Promises and failures](https://arxiv.org/pdf/1904.02077)." arXiv preprint arXiv:1904.02077 (2019).
 - :star: HNSW: Efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs. Malkov, Yu A., and Dmitry A. Yashunin. [[Paper](https://arxiv.org/pdf/1603.09320.pdf), [Code](https://github.com/nmslib/hnswlib)], [Rust Version](https://github.com/rust-cv/hnsw)
 - Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis. Dobson, Magdalen, Zheqi Shen, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Harsha Vardhan Simhadri, and Yihan Sun. [[Paper](https://arxiv.org/pdf/2305.04359.pdf)]
 - FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search. Chen, Patrick, Wei-Cheng Chang, Jyun-Yu Jiang, Hsiang-Fu Yu, Inderjit Dhillon, and Cho-Jui Hsieh [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318), [Video](https://www.youtube.com/watch?v=OsxZG2XfcZA)]
@@ -169,6 +171,8 @@ Source: A survey of product quantization.
 - Huang, Qiang, Yifan Lei, and Anthony KH Tung. "[Point-to-hyperplane nearest neighbor search beyond the unit hypersphere](https://dl.acm.org/doi/pdf/10.1145/3448016.3457240)." Proceedings of the 2021 International Conference on Management of Data. 2021.
 - Weng, Zhenyu, Yuesheng Zhu, and Ruixin Liu. "[Fast Search on Binary Codes by Weighted Hamming Distance](https://arxiv.org/pdf/2009.08591)." arXiv preprint arXiv:2009.08591 (2020).
 - Jian, Xiaozheng, et al. "[Fast top-K cosine similarity search through XOR-friendly binary quantization on GPUs](https://arxiv.org/pdf/2008.02002)." arXiv preprint arXiv:2008.02002 (2020).
+- Zheng, Bolong, et al. "[PM-LSH: A fast and accurate LSH framework for high-dimensional approximate NN search](https://vbn.aau.dk/files/391642966/p643_zheng_1_.pdf)." Proceedings of the VLDB Endowment 13.5 (2020): 643-655.
+- Eghbali, Sepehr. "[Scalable Nearest Neighbor Search with Compact Codes](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15355/Eghbali_Sepehr.pdf?sequence=3&isAllowed=y)." (2019).
 
 ## Other Approaches
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
