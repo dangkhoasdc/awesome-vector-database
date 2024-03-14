@@ -123,6 +123,8 @@ Source: A survey of product quantization.
 - Zhan, Jingtao, et al. "[Jointly optimizing query encoder and product quantization to improve retrieval performance](https://arxiv.org/pdf/2108.00644)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
 - Wang, Runhui, and Dong Deng. "[DeltaPQ: lossless product quantization code compression for high dimensional similarity search](http://vldb.org/pvldb/vol13/p3603-wang.pdf)." Proceedings of the VLDB Endowment 13.13 (2020): 3603-3616.
 - Jang, Young Kyun, and Nam Ik Cho. "[Generalized product quantization network for semi-supervised image retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jang_Generalized_Product_Quantization_Network_for_Semi-Supervised_Image_Retrieval_CVPR_2020_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+- Chen, Ting, Lala Li, and Yizhou Sun. "[Differentiable product quantization for end-to-end embedding compression](http://proceedings.mlr.press/v119/chen20l/chen20l.pdf)." International Conference on Machine Learning. PMLR, 2020.
+
 
 ## Graph-based Methods
 
@@ -180,6 +182,8 @@ Source: A survey of product quantization.
 - Li, Yuliang, et al. "[Index-based, high-dimensional, cosine threshold querying with optimality guarantees](https://arxiv.org/pdf/1812.07695.pdf)." Theory of Computing Systems 65 (2021): 42-83.
 - Chen, Yewang, et al. "[Semi-convex hull tree: Fast nearest neighbor queries for large scale data on GPUs](https://www.researchgate.net/profile/Yewang-Chen/publication/330028721_Semi-Convex_Hull_Tree_Fast_Nearest_Neighbor_Queries_for_Large_Scale_Data_on_GPUs/links/5c316845299bf12be3b1ca36/Semi-Convex-Hull-Tree-Fast-Nearest-Neighbor-Queries-for-Large-Scale-Data-on-GPUs.pdf)." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
 - Engels, Joshua, Benjamin Coleman, and Anshumali Shrivastava. "[Practical near neighbor search via group testing](https://arxiv.org/pdf/2106.11565.pdf)." Advances in Neural Information Processing Systems 34 (2021): 9950-9962. [[Supplement](https://proceedings.neurips.cc/paper_files/paper/2021/file/5248e5118c84beea359b6ea385393661-Supplemental.pdf)]
+- Gong, Long, et al. "[iDEC: indexable distance estimating codes for approximate nearest neighbor search](https://par.nsf.gov/servlets/purl/10167953)." Proceedings of the VLDB Endowment 13.9 (2020).
+- Lu, Kejing, et al. "[VHP: approximate nearest neighbor search via virtual hypersphere partitioning](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/79717/1/3397230.3397240.pdf)." Proceedings of the VLDB Endowment 13.9 (2020): 1443-1455.
 
 ## Systems
 
@@ -196,6 +200,7 @@ Source: A survey of product quantization.
 - Levi, Asaf, et al. "[Physical vs. Logical Indexing with {IDEA}: Inverted {Deduplication-Aware} Index](https://www.usenix.org/system/files/fast24-levi.pdf)." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [[Code](https://github.com/asaflevi0812/IDEA)]
 - Carra, Damiano, and Giovanni Neglia. "[Taking two Birds with one k-NN Cache](http://profs.sci.univr.it/~carra/downloads/Carra_Globecom_21.pdf)." 2021 IEEE Global Communications Conference (GLOBECOM). IEEE, 2021.
 - Salem, Tareq Si, Giovanni Neglia, and Damiano Carra. "[Ascent Similarity Caching With Approximate Indexes](https://arxiv.org/pdf/2107.00957.pdf)." IEEE/ACM Transactions on Networking (2022).
+- Li, Conglong, et al. "[Improving approximate nearest neighbor search through learned adaptive early termination](https://pdl.cmu.edu/PDL-FTP/BigLearning/mod0246-liA.pdf)." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
 
 
 ## Evaluation & Metrics
