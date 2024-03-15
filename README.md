@@ -91,6 +91,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - Retrieval Augmented Generation and Vespa [[Slides](https://docs.google.com/presentation/d/1LRAQfdT4UH69pgojNi_EMspSgsHn9YJVac_bbnhy038/edit#slide=id.p1)]
 ## Courses
 - Long Term Memory in AI - Vector Search and Databases (COS 495 - Princeton) [[Class Notes](https://github.com/edoliberty/vector-search-class-notes)]
+- Freiburg Information Retrieval WS 2022-2023 [[Website](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS2223), [Video Lectures](https://www.youtube.com/playlist?list=PL682UO4IMem9rQdlqJZZGQYD_CTRpTJZU)]
 
 # Publications
 ## Survey
