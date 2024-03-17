@@ -203,6 +203,7 @@ Source: A survey of product quantization.
 - Carra, Damiano, and Giovanni Neglia. "[Taking two Birds with one k-NN Cache](http://profs.sci.univr.it/~carra/downloads/Carra_Globecom_21.pdf)." 2021 IEEE Global Communications Conference (GLOBECOM). IEEE, 2021.
 - Salem, Tareq Si, Giovanni Neglia, and Damiano Carra. "[Ascent Similarity Caching With Approximate Indexes](https://arxiv.org/pdf/2107.00957.pdf)." IEEE/ACM Transactions on Networking (2022).
 - Li, Conglong, et al. "[Improving approximate nearest neighbor search through learned adaptive early termination](https://pdl.cmu.edu/PDL-FTP/BigLearning/mod0246-liA.pdf)." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
+- Karppa, Matti, Martin Aumüller, and Rasmus Pagh. "[Deann: Speeding up kernel-density estimation using approximate nearest neighbor search](https://proceedings.mlr.press/v151/karppa22a/karppa22a.pdf)." International Conference on Artificial Intelligence and Statistics. PMLR, 2022.
 
 
 ## Evaluation & Metrics
