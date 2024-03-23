@@ -51,6 +51,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [milvus](https://milvus.io/)
 - [infinity](https://github.com/infiniflow/infinity)
 - [havenask](https://github.com/alibaba/havenask)
+- [chromem-go](https://github.com/philippgille/chromem-go)
 
 ## Texts
 
