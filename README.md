@@ -225,3 +225,7 @@ Source: A survey of product quantization.
 - [Vector Databases: A Beginner’s Guide!](https://medium.com/data-and-beyond/vector-databases-a-beginners-guide-b050cbbe9ca0)
 - [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
 
+## Related Lists
+
+- [Awesome Vector Search Engine](https://github.com/currentslab/awesome-vector-search)
+
