@@ -206,6 +206,8 @@ Source: A survey of product quantization.
 - Salem, Tareq Si, Giovanni Neglia, and Damiano Carra. "[Ascent Similarity Caching With Approximate Indexes](https://arxiv.org/pdf/2107.00957.pdf)." IEEE/ACM Transactions on Networking (2022).
 - Li, Conglong, et al. "[Improving approximate nearest neighbor search through learned adaptive early termination](https://pdl.cmu.edu/PDL-FTP/BigLearning/mod0246-liA.pdf)." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
 - Karppa, Matti, Martin Aumüller, and Rasmus Pagh. "[Deann: Speeding up kernel-density estimation using approximate nearest neighbor search](https://proceedings.mlr.press/v151/karppa22a/karppa22a.pdf)." International Conference on Artificial Intelligence and Statistics. PMLR, 2022.
+- Wang, Zeyu, et al. "[Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark](https://arxiv.org/pdf/2403.13491.pdf)." arXiv preprint arXiv:2403.13491 (2024).
+- Szilvasy, Gergely, Pierre-Emmanuel Mazaré, and Matthijs Douze. "[Vector search with small radiuses](https://arxiv.org/pdf/2403.10746)." arXiv preprint arXiv:2403.10746 (2024).
 
 
 ## Evaluation & Metrics
