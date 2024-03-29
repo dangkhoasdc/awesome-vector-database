@@ -90,6 +90,9 @@ A curated list of awesome works related to high dimensional structure/vector sea
   - Billion-scale Approximate Nearest Neighbor Search: [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf), [Video](https://www.youtube.com/watch?v=iI8e3kU11eU)]
   - Is instance search a solved problem? [[Slides](https://wangzwhu.github.io/home/file/acmmm-t-part4-ins.pdf), [Video](https://www.youtube.com/watch?v=cH256Zqt5Ms)]
 - Retrieval Augmented Generation and Vespa [[Slides](https://docs.google.com/presentation/d/1LRAQfdT4UH69pgojNi_EMspSgsHn9YJVac_bbnhy038/edit#slide=id.p1)]
+- [SISAP Indexing Challenge](https://sisap-challenges.github.io/#sisap_indexing_challenge)
+  - [2023 Competition](https://sisap-challenges.github.io/2023/)
+  - [2024 Competition](https://sisap-challenges.github.io/2024/)
 ## Courses
 - Long Term Memory in AI - Vector Search and Databases (COS 495 - Princeton) [[Class Notes](https://github.com/edoliberty/vector-search-class-notes)]
 - Freiburg Information Retrieval WS 2022-2023 [[Website](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS2223), [Video Lectures](https://www.youtube.com/playlist?list=PL682UO4IMem9rQdlqJZZGQYD_CTRpTJZU)]
