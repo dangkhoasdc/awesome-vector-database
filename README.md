@@ -230,6 +230,7 @@ Source: A survey of product quantization.
 - [Efficient Vector Similarity Search in Recommender Workflows Using Milvus with NVIDIA Merlin](https://milvus.io/blog/efficient-vector-similarity-search-recommender-workflows-using-milvus-nvidia-merlin.md)
 - [Vector Databases: A Beginner’s Guide!](https://medium.com/data-and-beyond/vector-databases-a-beginners-guide-b050cbbe9ca0)
 - [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
+- [How to handle a Million Vector Embeddings in the RAG Applications](https://medium.datadriveninvestor.com/how-to-handle-a-million-embedding-vectors-in-the-rag-application-d10b875a0218)
 
 ## Related Lists
 
