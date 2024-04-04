@@ -131,6 +131,7 @@ Source: A survey of product quantization.
 - Jang, Young Kyun, and Nam Ik Cho. "[Generalized product quantization network for semi-supervised image retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jang_Generalized_Product_Quantization_Network_for_Semi-Supervised_Image_Retrieval_CVPR_2020_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
 - Chen, Ting, Lala Li, and Yizhou Sun. "[Differentiable product quantization for end-to-end embedding compression](http://proceedings.mlr.press/v119/chen20l/chen20l.pdf)." International Conference on Machine Learning. PMLR, 2020.
 - Huang, Rong, et al. "[Learning Discrete Document Representations in Web Search](https://dl.acm.org/doi/pdf/10.1145/3580305.3599854)." Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023.
+- Nardini, Franco Maria, Cosimo Rulli, and Rossano Venturini. "[Efficient Multi-vector Dense Retrieval with Bit Vectors](https://arxiv.org/pdf/2404.02805.pdf)." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024. [[Code](https://github.com/CosimoRulli/emvb)]
 
 
 ## Graph-based Methods
