@@ -234,6 +234,7 @@ Source: A survey of product quantization.
 - [Vector Databases: A Beginner’s Guide!](https://medium.com/data-and-beyond/vector-databases-a-beginners-guide-b050cbbe9ca0)
 - [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
 - [How to handle a Million Vector Embeddings in the RAG Applications](https://medium.datadriveninvestor.com/how-to-handle-a-million-embedding-vectors-in-the-rag-application-d10b875a0218)
+- [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 
 ## Related Lists
 
