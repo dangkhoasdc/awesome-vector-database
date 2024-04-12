@@ -165,6 +165,8 @@ Source: A survey of product quantization.
 - Singh, Aditi, et al. "[Freshdiskann: A fast and accurate graph-based ann index for streaming similarity search](https://arxiv.org/pdf/2105.09613.pdf)." arXiv preprint arXiv:2105.09613 (2021).
 - Wang, Hui, Wan-Lei Zhao, and Xiangxiang Zeng. "[Large-Scale Approximate k-NN Graph Construction on GPU](https://arxiv.org/pdf/2103.15386)." arXiv preprint arXiv:2103.15386 (2021).
 - Patel, Liana, et al. "[ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data](https://arxiv.org/pdf/2403.04871v1.pdf)." arXiv preprint arXiv:2403.04871 (2024).
+- Zuo, Chaoji, et al. "[SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3639324)." Proceedings of the ACM on Management of Data 2.1 (2024): 1-26.
+
 
 ## Tree-based Methods
 - Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
