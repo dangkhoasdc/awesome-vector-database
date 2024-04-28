@@ -169,7 +169,7 @@ Source: A survey of product quantization.
 
 
 ## Tree-based Methods
-- Diskann: Fast accurate billion-point nearest neighbor search on a single node. Jayaram Subramanya, Suhas, et al. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [Code](https://github.com/microsoft/DiskANN)]
+- Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
 - Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
 - Engels, Joshua, et al. "[Approximate Nearest Neighbor Search with Window Filters](https://arxiv.org/html/2402.00943v1)." arXiv preprint arXiv:2402.00943 (2024).
 - Song, Yang, et al. "[ProMIPS: Efficient high-dimensional C-approximate maximum inner product search with a lightweight index](https://arxiv.org/pdf/2104.04406)." 2021 IEEE 37th International Conference on Data Engineering (ICDE). IEEE, 2021.
@@ -219,6 +219,7 @@ Source: A survey of product quantization.
 - Wang, Zeyu, et al. "[Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark](https://arxiv.org/pdf/2403.13491.pdf)." arXiv preprint arXiv:2403.13491 (2024).
 - Szilvasy, Gergely, Pierre-Emmanuel Mazaré, and Matthijs Douze. "[Vector search with small radiuses](https://arxiv.org/pdf/2403.10746)." arXiv preprint arXiv:2403.10746 (2024).
 - Han, Changhun, Suji Kim, and Ha-Myung Park. "[Efficient Proximity Search in Time-accumulating High-dimensional Data using Multi-level Block Indexing](https://openproceedings.org/2024/conf/edbt/paper-154.pdf)." (2024).
+- Tepper, Mariano, et al. "[LeanVec: Search your vectors faster by making them fit.](https://arxiv.org/pdf/2312.16335v1)" arXiv preprint arXiv:2312.16335 (2023).
 
 
 ## :chart_with_upwards_trend: Evaluation & Metrics
