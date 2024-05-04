@@ -220,6 +220,7 @@ Source: A survey of product quantization.
 - Szilvasy, Gergely, Pierre-Emmanuel Mazaré, and Matthijs Douze. "[Vector search with small radiuses](https://arxiv.org/pdf/2403.10746)." arXiv preprint arXiv:2403.10746 (2024).
 - Han, Changhun, Suji Kim, and Ha-Myung Park. "[Efficient Proximity Search in Time-accumulating High-dimensional Data using Multi-level Block Indexing](https://openproceedings.org/2024/conf/edbt/paper-154.pdf)." (2024).
 - Tepper, Mariano, et al. "[LeanVec: Search your vectors faster by making them fit.](https://arxiv.org/pdf/2312.16335v1)" arXiv preprint arXiv:2312.16335 (2023).
+- Harwood, Ben, et al. "[Approximate Nearest Neighbour Search on Dynamic Datasets: An Investigation](https://arxiv.org/pdf/2404.19284)." arXiv preprint arXiv:2404.19284 (2024).
 
 
 ## :chart_with_upwards_trend: Evaluation & Metrics
