@@ -168,7 +168,7 @@ Source: A survey of product quantization.
 - Zuo, Chaoji, et al. "[SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3639324)." Proceedings of the ACM on Management of Data 2.1 (2024): 1-26.
 
 
-## Tree-based Methods
+##🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
 - Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
 - Engels, Joshua, et al. "[Approximate Nearest Neighbor Search with Window Filters](https://arxiv.org/html/2402.00943v1)." arXiv preprint arXiv:2402.00943 (2024).
@@ -242,6 +242,8 @@ Source: A survey of product quantization.
 - [How to handle a Million Vector Embeddings in the RAG Applications](https://medium.datadriveninvestor.com/how-to-handle-a-million-embedding-vectors-in-the-rag-application-d10b875a0218)
 - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 - [Common Pitfalls To Avoid When Using Vector Databases](https://dagshub.com/blog/common-pitfalls-to-avoid-when-using-vector-databases/)
+- [Getting Started With Vector Databases](https://dzone.com/refcardz/getting-started-with-vector-databases)
+
 
 ## Related Lists
 
