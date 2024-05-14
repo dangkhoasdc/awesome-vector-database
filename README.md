@@ -20,7 +20,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Typesense's Cloud](https://cloud.typesense.org)
 - [MongoDB Atlas Vector Search](https://www.mongodb.com/products/platform/atlas-vector-search)
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
-
+- [KBD.AI](https://kdb.ai/)
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
