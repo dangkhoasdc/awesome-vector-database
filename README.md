@@ -203,6 +203,7 @@ Source: A survey of product quantization.
 
 - Qin, An, et al. "[Maze: A Cost-Efficient Video Deduplication System at Web-scale](https://dl.acm.org/doi/pdf/10.1145/3503161.3548145)." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
 - Doshi, Ishita, et al. "[LANNS: a web-scale approximate nearest neighbor lookup system](https://arxiv.org/pdf/2010.09426.pdf)." arXiv preprint arXiv:2010.09426 (2020).
+- Chen, Yaoqi, et al. "[OneSparse: A Unified System for Multi-index Vector Search](https://dl.acm.org/doi/pdf/10.1145/3589335.3648338)." Companion Proceedings of the ACM on Web Conference 2024. 2024.
 
 ## Others
 - [Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices](https://arxiv.org/abs/2312.07517)
