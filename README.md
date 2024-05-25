@@ -134,6 +134,7 @@ Source: A survey of product quantization.
 - Chen, Ting, Lala Li, and Yizhou Sun. "[Differentiable product quantization for end-to-end embedding compression](http://proceedings.mlr.press/v119/chen20l/chen20l.pdf)." International Conference on Machine Learning. PMLR, 2020.
 - Huang, Rong, et al. "[Learning Discrete Document Representations in Web Search](https://dl.acm.org/doi/pdf/10.1145/3580305.3599854)." Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023.
 - Nardini, Franco Maria, Cosimo Rulli, and Rossano Venturini. "[Efficient Multi-vector Dense Retrieval with Bit Vectors](https://arxiv.org/pdf/2404.02805.pdf)." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024. [[Code](https://github.com/CosimoRulli/emvb)]
+- Gao, Jianyang, and Cheng Long. "[RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2405.12497)" arXiv preprint arXiv:2405.12497 (2024).
 
 
 ## Graph-based Methods
