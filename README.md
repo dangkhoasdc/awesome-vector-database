@@ -134,8 +134,7 @@ Source: A survey of product quantization.
 - Chen, Ting, Lala Li, and Yizhou Sun. "[Differentiable product quantization for end-to-end embedding compression](http://proceedings.mlr.press/v119/chen20l/chen20l.pdf)." International Conference on Machine Learning. PMLR, 2020.
 - Huang, Rong, et al. "[Learning Discrete Document Representations in Web Search](https://dl.acm.org/doi/pdf/10.1145/3580305.3599854)." Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023.
 - Nardini, Franco Maria, Cosimo Rulli, and Rossano Venturini. "[Efficient Multi-vector Dense Retrieval with Bit Vectors](https://arxiv.org/pdf/2404.02805.pdf)." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024. [[Code](https://github.com/CosimoRulli/emvb)]
-- Gao, Jianyang, and Cheng Long. "[RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2405.12497)" arXiv preprint arXiv:2405.12497 (2024).
-
+- Gao, Jianyang, and Cheng Long. "[RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2405.12497)" arXiv preprint arXiv:2405.12497 (2024). [(Code)[https://github.com/gaoj0017/RaBitQ]]
 
 ## Graph-based Methods
 
@@ -170,7 +169,7 @@ Source: A survey of product quantization.
 - Zuo, Chaoji, et al. "[SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3639324)." Proceedings of the ACM on Management of Data 2.1 (2024): 1-26.
 
 
-##🎄Tree-based Methods
+## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
 - Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
 - Engels, Joshua, et al. "[Approximate Nearest Neighbor Search with Window Filters](https://arxiv.org/html/2402.00943v1)." arXiv preprint arXiv:2402.00943 (2024).
