@@ -199,6 +199,7 @@ Source: A survey of product quantization.
 - Zheng, Bolong, et al. "[PM-LSH: A fast and accurate LSH framework for high-dimensional approximate NN search](https://vbn.aau.dk/files/391642966/p643_zheng_1_.pdf)." Proceedings of the VLDB Endowment 13.5 (2020): 643-655.
 - Eghbali, Sepehr. "[Scalable Nearest Neighbor Search with Compact Codes](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15355/Eghbali_Sepehr.pdf?sequence=3&isAllowed=y)." (2019).
 - Lei, Yifan, et al. "[Locality-sensitive hashing scheme based on longest circular co-substring](https://arxiv.org/pdf/2004.05345)." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
+- Wei, Jiuqi, et al. "[DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2406.10938)." arXiv preprint arXiv:2406.10938 (2024).
 
 ## Other Approaches
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
