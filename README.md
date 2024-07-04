@@ -76,6 +76,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Qdrant's Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
 - [MyScale's Vector Database Benchmark](https://myscale.github.io/benchmark/#/benchmark)
 - Li, Wen, et al. "[Approximate nearest neighbor search on high dimensional data—experiments, analyses, and improvement](https://arxiv.org/pdf/1610.02455.pdf)." IEEE Transactions on Knowledge and Data Engineering 32.8 (2019): 1475-1488.
+- Zeng, Xianzhi, et al. "[CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion.](https://arxiv.org/pdf/2406.19651)" arXiv preprint arXiv:2406.19651 (2024).
 
 # 📚 Books 
 - [Foundations of Multidimensional and Metric Data Structures](https://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469/)
