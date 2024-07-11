@@ -56,6 +56,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [OasysDB](https://github.com/oasysai/oasysdb) [[Notebook](https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing)]
 - [arroy](https://github.com/meilisearch/arroy)
 - [bleve](https://github.com/blevesearch/bleve)
+- [cuVS](https://github.com/rapidsai/cuvs)
 
 ## Texts
 
