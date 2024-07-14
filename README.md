@@ -177,6 +177,8 @@ Source: A survey of product quantization.
 - Patel, Liana, et al. "[ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data](https://arxiv.org/pdf/2403.04871v1.pdf)." arXiv preprint arXiv:2403.04871 (2024).
 - Zuo, Chaoji, et al. "[SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3639324)." Proceedings of the ACM on Management of Data 2.1 (2024): 1-26.
 - Hezel, Nico, et al. "[An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval](https://dl.acm.org/doi/pdf/10.1145/3652583.3658117)." Proceedings of the 2024 International Conference on Multimedia Retrieval. 2024.
+- Xiao, Wentao, et al. "[Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation](https://arxiv.org/pdf/2407.07871)." arXiv preprint arXiv:2407.07871 (2024).
+
 
 
 ## 🎄Tree-based Methods
