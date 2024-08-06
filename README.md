@@ -104,6 +104,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 ## Courses
 - Long Term Memory in AI - Vector Search and Databases (COS 495 - Princeton) [[Class Notes](https://github.com/edoliberty/vector-search-class-notes)]
 - Freiburg Information Retrieval WS 2022-2023 [[Website](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS2223), [Video Lectures](https://www.youtube.com/playlist?list=PL682UO4IMem9rQdlqJZZGQYD_CTRpTJZU)]
+- Vector Similarity Search and Faiss Course [[Youtube Playlist](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)]
 
 ## Others
 - [VectorHub](https://github.com/superlinked/VectorHub): a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.
