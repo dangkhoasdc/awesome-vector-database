@@ -57,6 +57,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [arroy](https://github.com/meilisearch/arroy)
 - [bleve](https://github.com/blevesearch/bleve)
 - [cuVS](https://github.com/rapidsai/cuvs)
+- [vsag](https://github.com/alipay/vsag)
 
 ## Texts
 
