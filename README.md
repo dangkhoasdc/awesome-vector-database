@@ -74,7 +74,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com)
     - [2021 Result](https://proceedings.mlr.press/v176/simhadri22a/simhadri22a.pdf)
 - [BEIR](https://github.com/beir-cellar/beir)
-- [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool)
+- [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool) , [[Github](https://github.com/zilliztech/VectorDBBench)]
 - [Qdrant's Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
 - [MyScale's Vector Database Benchmark](https://myscale.github.io/benchmark/#/benchmark)
 - Li, Wen, et al. "[Approximate nearest neighbor search on high dimensional data—experiments, analyses, and improvement](https://arxiv.org/pdf/1610.02455.pdf)." IEEE Transactions on Knowledge and Data Engineering 32.8 (2019): 1475-1488.
