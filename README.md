@@ -242,6 +242,7 @@ Source: A survey of product quantization.
 - Harwood, Ben, et al. "[Approximate Nearest Neighbour Search on Dynamic Datasets: An Investigation](https://arxiv.org/pdf/2404.19284)." arXiv preprint arXiv:2404.19284 (2024).
 - [Characterizing the Dilemma of Performance and Index Size in Billion-Scale Vector Search and Breaking It with Second-Tier Memory](https://arxiv.org/pdf/2405.03267)
 - Xu, Haike. [Worst-case Performance of Popular Approximate Nearest Neighbor Search Implementations: Guarantees and Limitations](https://dspace.mit.edu/bitstream/handle/1721.1/156284/xu-haikexu-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y). Diss. Massachusetts Institute of Technology, 2024.
+- Lin, Jimmy. "[Operational Advice for Dense and Sparse Retrievers: HNSW, Flat, or Inverted Indexes?.](https://arxiv.org/pdf/2409.06464)" arXiv preprint arXiv:2409.06464 (2024).
 
 
 ## :chart_with_upwards_trend: Evaluation & Metrics
