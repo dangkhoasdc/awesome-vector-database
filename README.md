@@ -148,6 +148,7 @@ Source: A survey of product quantization.
 - Huang, Rong, et al. "[Learning Discrete Document Representations in Web Search](https://dl.acm.org/doi/pdf/10.1145/3580305.3599854)." Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023.
 - Nardini, Franco Maria, Cosimo Rulli, and Rossano Venturini. "[Efficient Multi-vector Dense Retrieval with Bit Vectors](https://arxiv.org/pdf/2404.02805.pdf)." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024. [[Code](https://github.com/CosimoRulli/emvb)]
 - Gao, Jianyang, and Cheng Long. "[RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2405.12497)" arXiv preprint arXiv:2405.12497 (2024). [(Code)[https://github.com/gaoj0017/RaBitQ]]
+- Gao, Jianyang, et al. "[Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2409.09913)" arXiv preprint arXiv:2409.09913 (2024).
 
 ## Graph-based Methods
 
