@@ -217,6 +217,7 @@ Source: A survey of product quantization.
 - Engels, Joshua, Benjamin Coleman, and Anshumali Shrivastava. "[Practical near neighbor search via group testing](https://arxiv.org/pdf/2106.11565.pdf)." Advances in Neural Information Processing Systems 34 (2021): 9950-9962. [[Supplement](https://proceedings.neurips.cc/paper_files/paper/2021/file/5248e5118c84beea359b6ea385393661-Supplemental.pdf)]
 - Gong, Long, et al. "[iDEC: indexable distance estimating codes for approximate nearest neighbor search](https://par.nsf.gov/servlets/purl/10167953)." Proceedings of the VLDB Endowment 13.9 (2020).
 - Lu, Kejing, et al. "[VHP: approximate nearest neighbor search via virtual hypersphere partitioning](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/79717/1/3397230.3397240.pdf)." Proceedings of the VLDB Endowment 13.9 (2020): 1443-1455.
+- Bing Tian, , Haikun Liu, Yuhang Tang, Shihai Xiao, Zhuohui Duan, Xiaofei Liao, Xuecang Zhang, Junhua Zhu, Yu Zhang. "[FusionANNS: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2409.16576)" (2024).
 
 ## Systems
 
