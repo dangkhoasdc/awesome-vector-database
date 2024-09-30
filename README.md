@@ -75,6 +75,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
 - [Billion-scale ANNS Benchmarks](https://big-ann-benchmarks.com)
     - [2021 Result](https://proceedings.mlr.press/v176/simhadri22a/simhadri22a.pdf)
+    - Simhadri, Harsha Vardhan, et al. "[Results of the Big ANN: NeurIPS'23 competition.](https://arxiv.org/pdf/2409.17424)" arXiv preprint arXiv:2409.17424 (2024).
+
 - [BEIR](https://github.com/beir-cellar/beir)
 - [VectorDBBench - A Vector Database Benchmark Tool](https://zilliz.com/vector-database-benchmark-tool) , [[Github](https://github.com/zilliztech/VectorDBBench)]
 - [Qdrant's Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
