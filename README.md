@@ -185,6 +185,7 @@ Source: A survey of product quantization.
 - Zuo, Chaoji, et al. "[SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3639324)." Proceedings of the ACM on Management of Data 2.1 (2024): 1-26.
 - Hezel, Nico, et al. "[An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval](https://dl.acm.org/doi/pdf/10.1145/3652583.3658117)." Proceedings of the 2024 International Conference on Multimedia Retrieval. 2024.
 - Xiao, Wentao, et al. "[Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation](https://arxiv.org/pdf/2407.07871)." arXiv preprint arXiv:2407.07871 (2024).
+- Yang, Shuo, et al. "[Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2410.01231)" arXiv preprint arXiv:2410.01231 (2024).
 
 
 
