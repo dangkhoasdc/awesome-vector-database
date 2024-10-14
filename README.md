@@ -11,6 +11,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [vectara](https://vectara.com)
 - [Epsilla](https://epsilla.com/)
 - [algolia](https://www.algolia.com/)
+- [Meilisearch](https://www.meilisearch.com/solutions/vector-search)
 - [nucliadb](https://nuclia.com/vector-database/)
 - [OpenSearch](https://opensearch.org/)
 - [MyScale](https://myscale.com)
@@ -54,7 +55,8 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [havenask](https://github.com/alibaba/havenask)
 - [chromem-go](https://github.com/philippgille/chromem-go)
 - [OasysDB](https://github.com/oasysai/oasysdb) [[Notebook](https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing)]
-- [arroy](https://github.com/meilisearch/arroy)
+- [Meilisearch](https://github.com/meilisearch) - Search engine API for Semantic (vectors), full-text & hybrid search
+- [arroy](https://github.com/meilisearch/arroy) - Approximate Nearest Neighbors Rust library
 - [bleve](https://github.com/blevesearch/bleve)
 - [cuVS](https://github.com/rapidsai/cuvs)
 - [vsag](https://github.com/alipay/vsag)
