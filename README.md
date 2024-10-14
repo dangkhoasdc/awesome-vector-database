@@ -274,7 +274,7 @@ Source: A survey of product quantization.
 - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 - [Common Pitfalls To Avoid When Using Vector Databases](https://dagshub.com/blog/common-pitfalls-to-avoid-when-using-vector-databases/)
 - [Getting Started With Vector Databases](https://dzone.com/refcardz/getting-started-with-vector-databases)
-
+- [Choosing the best model for semantic search](https://blog.meilisearch.com/choosing-the-best-model-for-semantic-search/)
 
 ## Related Lists
 
