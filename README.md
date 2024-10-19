@@ -63,6 +63,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [sqlite-vec](https://github.com/asg017/sqlite-vec)
 - [MyScaleDB](https://github.com/myscale/MyScaleDB)
 - [hora](https://github.com/hora-search/hora)
+- [arroy](https://github.com/meilisearch/arroy)
 
 ## Texts
 
