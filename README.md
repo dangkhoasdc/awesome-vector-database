@@ -64,6 +64,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [MyScaleDB](https://github.com/myscale/MyScaleDB)
 - [hora](https://github.com/hora-search/hora)
 - [arroy](https://github.com/meilisearch/arroy)
+- [KGraph](https://github.com/aaalgo/kgraph)
 
 ## Texts
 
