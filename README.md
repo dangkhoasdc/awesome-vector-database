@@ -66,6 +66,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [arroy](https://github.com/meilisearch/arroy)
 - [KGraph](https://github.com/aaalgo/kgraph)
 - [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl)
+- [MuopDB](https://github.com/hicder/muopdb)
 
 ## Texts
 
