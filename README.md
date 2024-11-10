@@ -158,6 +158,7 @@ Source: A survey of product quantization.
 - Nardini, Franco Maria, Cosimo Rulli, and Rossano Venturini. "[Efficient Multi-vector Dense Retrieval with Bit Vectors](https://arxiv.org/pdf/2404.02805.pdf)." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024. [[Code](https://github.com/CosimoRulli/emvb)]
 - Gao, Jianyang, and Cheng Long. "[RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2405.12497)" arXiv preprint arXiv:2405.12497 (2024). [(Code)[https://github.com/gaoj0017/RaBitQ]]
 - Gao, Jianyang, et al. "[Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2409.09913)" arXiv preprint arXiv:2409.09913 (2024).
+- Mohoney, Jason, et al. "[Incremental IVF Index Maintenance for Streaming Vector Search.](https://arxiv.org/pdf/2411.00970)" arXiv preprint arXiv:2411.00970 (2024).
 
 ## Graph-based Methods
 
