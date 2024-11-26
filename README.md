@@ -126,6 +126,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - :star: Pan, James Jie, Jianguo Wang, and Guoliang Li. "Survey of Vector Database Management Systems." arXiv preprint arXiv:2310.14021 (2023). [[Paper](https://arxiv.org/abs/2310.14021)]
 - Aumüller, Martin, and Matteo Ceccarello. "[Recent Approaches and Trends in Approximate Nearest Neighbor Search](http://sites.computer.org/debull/A23sept/p89.pdf)." {IEEE} Data Engineering Bulletin (2023).
 - Nearest neighbor search: the old, the new, and the impossible. Andoni, Alexandr. [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/55090/587638612-MIT.pdf?sequence=2)]
+- Ganbarov, Ali, et al. "[Experimental comparison of graph-based approximate nearest neighbor search algorithms on edge devices.](https://arxiv.org/pdf/2411.14006)" arXiv preprint arXiv:2411.14006 (2024).
 
 
 ## Quantization
