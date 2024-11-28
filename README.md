@@ -235,6 +235,7 @@ Source: A survey of product quantization.
 - Chen, Zhonghan, et al. "[Exploring the Meaningfulness of Nearest Neighbor Search in High-Dimensional Space.](https://arxiv.org/pdf/2410.05752)" arXiv preprint arXiv:2410.05752 (2024).
 - Tepper, Mariano, et al. "[GleanVec: Accelerating vector search with minimalist nonlinear dimensionality reduction.](https://arxiv.org/pdf/2410.22347)" arXiv preprint arXiv:2410.22347 (2024).
 - Li, Jingyu, et al. "[PANTHER: Private Approximate Nearest Neighbor Search in the Single Server Setting.](https://eprint.iacr.org/2024/1774.pdf)" Cryptology ePrint Archive (2024).
+- Wei, Jiuqi, et al. "[Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.14754)" arXiv preprint arXiv:2411.14754 (2024).
 
 ## Systems
 
