@@ -197,6 +197,7 @@ Source: A survey of product quantization.
 - Xiao, Wentao, et al. "[Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation](https://arxiv.org/pdf/2407.07871)." arXiv preprint arXiv:2407.07871 (2024).
 - Yang, Shuo, et al. "[Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2410.01231)" arXiv preprint arXiv:2410.01231 (2024).
 - Gou, Yutong, et al. "[SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.12229)" arXiv preprint arXiv:2411.12229 (2024).
+- Yang, Ming, Yuzheng Cai, and Weiguo Zheng. "[CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search.](https://openreview.net/pdf?id=ohvXBIPV7e)" The Thirty-eighth Annual Conference on Neural Information Processing Systems.
 
 
 
