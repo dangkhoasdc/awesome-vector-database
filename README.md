@@ -267,6 +267,7 @@ Source: A survey of product quantization.
 - Xu, Haike. [Worst-case Performance of Popular Approximate Nearest Neighbor Search Implementations: Guarantees and Limitations](https://dspace.mit.edu/bitstream/handle/1721.1/156284/xu-haikexu-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y). Diss. Massachusetts Institute of Technology, 2024.
 - Lin, Jimmy. "[Operational Advice for Dense and Sparse Retrievers: HNSW, Flat, or Inverted Indexes?.](https://arxiv.org/pdf/2409.06464)" arXiv preprint arXiv:2409.06464 (2024).
 - Zhou, Mingxun, Elaine Shi, and Giulia Fanti. "[Pacmann: Efficient Private Approximate Nearest Neighbor Search.](https://eprint.iacr.org/2024/1600.pdf)" Cryptology ePrint Archive (2024).
+- Vecchiato, Thomas. "[Learning Cluster Representatives for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2412.05921)" arXiv preprint arXiv:2412.05921 (2024).
 
 
 ## :chart_with_upwards_trend: Evaluation & Metrics
