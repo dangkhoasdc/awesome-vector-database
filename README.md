@@ -200,8 +200,7 @@ Source: A survey of product quantization.
 - Gou, Yutong, et al. "[SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.12229)" arXiv preprint arXiv:2411.12229 (2024).
 - Yang, Ming, Yuzheng Cai, and Weiguo Zheng. "[CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search.](https://openreview.net/pdf?id=ohvXBIPV7e)" The Thirty-eighth Annual Conference on Neural Information Processing Systems.
 - Liang, Anqi, et al. "[UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search.](https://arxiv.org/pdf/2412.02448)" arXiv preprint arXiv:2412.02448 (2024).
-
-
+- Gou, Yutong. "[Efficient approximate nearest neighbor search on high-dimensional vectors by graph and quantization.](https://dr.ntu.edu.sg/bitstream/10356/181650/4/MENG_Thesis.pdf)" (2024).
 
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
