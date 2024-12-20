@@ -162,6 +162,7 @@ Source: A survey of product quantization.
 - Gao, Jianyang, et al. "[Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2409.09913)" arXiv preprint arXiv:2409.09913 (2024).
 - Mohoney, Jason, et al. "[Incremental IVF Index Maintenance for Streaming Vector Search.](https://arxiv.org/pdf/2411.00970)" arXiv preprint arXiv:2411.00970 (2024).
 - Yang, Mingyu, Wentao Li, and Wei Wang. "[Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space.](https://arxiv.org/pdf/2411.06158)" arXiv preprint arXiv:2411.06158 (2024).
+- Liu, Qiyu, et al. "[Learned Data Compression: Challenges and Opportunities for the Future.](https://arxiv.org/pdf/2412.10770)" arXiv preprint arXiv:2412.10770 (2024).
 
 ## Graph-based Methods
 
