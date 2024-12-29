@@ -121,6 +121,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 ## Others
 - [VectorHub](https://github.com/superlinked/VectorHub): a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.
+- [Vector Database Group @ NTU](https://vectordb-ntu.github.io): Vector Database Research Group at Nanyang Technological University [[Github](https://github.com/VectorDB-NTU)]
 
 # Publications
 ## Survey
@@ -198,11 +199,11 @@ Source: A survey of product quantization.
 - Hezel, Nico, et al. "[An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval](https://dl.acm.org/doi/pdf/10.1145/3652583.3658117)." Proceedings of the 2024 International Conference on Multimedia Retrieval. 2024.
 - Xiao, Wentao, et al. "[Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation](https://arxiv.org/pdf/2407.07871)." arXiv preprint arXiv:2407.07871 (2024).
 - Yang, Shuo, et al. "[Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2410.01231)" arXiv preprint arXiv:2410.01231 (2024).
-- Gou, Yutong, et al. "[SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.12229)" arXiv preprint arXiv:2411.12229 (2024).
+- Gou, Yutong, et al. "[SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.12229)" arXiv preprint arXiv:2411.12229 (2024). [[Code](https://github.com/gouyt13/SymphonyQG)]
 - Yang, Ming, Yuzheng Cai, and Weiguo Zheng. "[CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search.](https://openreview.net/pdf?id=ohvXBIPV7e)" The Thirty-eighth Annual Conference on Neural Information Processing Systems.
 - Liang, Anqi, et al. "[UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search.](https://arxiv.org/pdf/2412.02448)" arXiv preprint arXiv:2412.02448 (2024).
 - Gou, Yutong. "[Efficient approximate nearest neighbor search on high-dimensional vectors by graph and quantization.](https://dr.ntu.edu.sg/bitstream/10356/181650/4/MENG_Thesis.pdf)" (2024).
-- Xu, Yuexuan, et al. "[iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search.](https://arxiv.org/pdf/2409.02571)" Proceedings of the ACM on Management of Data 2.6 (2024): 1-26.
+- Xu, Yuexuan, et al. "[iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search.](https://arxiv.org/pdf/2409.02571)" Proceedings of the ACM on Management of Data 2.6 (2024): 1-26. [[Code](https://github.com/YuexuanXu7/iRangeGraph)]
 
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
