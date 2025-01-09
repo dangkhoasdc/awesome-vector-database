@@ -22,6 +22,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [MongoDB Atlas Vector Search](https://www.mongodb.com/products/platform/atlas-vector-search)
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
 - [KBD.AI](https://kdb.ai/)
+- [Denser Retriever](https://denser.ai)
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
@@ -68,6 +69,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl)
 - [MuopDB](https://github.com/hicder/muopdb)
 - [puck](https://github.com/baidu/puck)
+- [Denser Retriever](https://github.com/denser-org/denser-retriever)
 
 ## Texts
 
