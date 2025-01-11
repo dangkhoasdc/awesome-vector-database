@@ -166,6 +166,7 @@ Source: A survey of product quantization.
 - Mohoney, Jason, et al. "[Incremental IVF Index Maintenance for Streaming Vector Search.](https://arxiv.org/pdf/2411.00970)" arXiv preprint arXiv:2411.00970 (2024).
 - Yang, Mingyu, Wentao Li, and Wei Wang. "[Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space.](https://arxiv.org/pdf/2411.06158)" arXiv preprint arXiv:2411.06158 (2024).
 - Liu, Qiyu, et al. "[Learned Data Compression: Challenges and Opportunities for the Future.](https://arxiv.org/pdf/2412.10770)" arXiv preprint arXiv:2412.10770 (2024).
+- Vallaeys, Théophane, et al. "[Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks.](https://arxiv.org/pdf/2501.03078)" arXiv preprint arXiv:2501.03078 (2025).
 
 ## Graph-based Methods
 
