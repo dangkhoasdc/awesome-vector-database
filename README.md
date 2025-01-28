@@ -244,6 +244,7 @@ Source: A survey of product quantization.
 - Tepper, Mariano, et al. "[GleanVec: Accelerating vector search with minimalist nonlinear dimensionality reduction.](https://arxiv.org/pdf/2410.22347)" arXiv preprint arXiv:2410.22347 (2024).
 - Li, Jingyu, et al. "[PANTHER: Private Approximate Nearest Neighbor Search in the Single Server Setting.](https://eprint.iacr.org/2024/1774.pdf)" Cryptology ePrint Archive (2024).
 - Wei, Jiuqi, et al. "[Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.14754)" arXiv preprint arXiv:2411.14754 (2024).
+- Severo, Daniel, et al. ["Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2501.10479)." arXiv preprint arXiv:2501.10479 (2025).
 
 ## Systems
 
