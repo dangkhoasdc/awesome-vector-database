@@ -245,6 +245,8 @@ Source: A survey of product quantization.
 - Li, Jingyu, et al. "[PANTHER: Private Approximate Nearest Neighbor Search in the Single Server Setting.](https://eprint.iacr.org/2024/1774.pdf)" Cryptology ePrint Archive (2024).
 - Wei, Jiuqi, et al. "[Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.14754)" arXiv preprint arXiv:2411.14754 (2024).
 - Severo, Daniel, et al. ["Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2501.10479)." arXiv preprint arXiv:2501.10479 (2025).
+- Scheerer, J. L., Zaharia, M., Potts, C., Alonso, G., & Khattab, O. (2025). WARP: An Efficient Engine for Multi-Vector Retrieval. arXiv [Cs.IR]. Retrieved from http://arxiv.org/abs/2501.17788
+
 
 ## Systems
 
