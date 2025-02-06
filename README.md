@@ -207,6 +207,7 @@ Source: A survey of product quantization.
 - Liang, Anqi, et al. "[UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search.](https://arxiv.org/pdf/2412.02448)" arXiv preprint arXiv:2412.02448 (2024).
 - Gou, Yutong. "[Efficient approximate nearest neighbor search on high-dimensional vectors by graph and quantization.](https://dr.ntu.edu.sg/bitstream/10356/181650/4/MENG_Thesis.pdf)" (2024).
 - Xu, Yuexuan, et al. "[iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search.](https://arxiv.org/pdf/2409.02571)" Proceedings of the ACM on Management of Data 2.6 (2024): 1-26. [[Code](https://github.com/YuexuanXu7/iRangeGraph)]
+- Douze, Matthijs, Alexandre Sablayrolles, and Hervé Jégou. "[Link and code: Fast indexing with graphs and compact regression codes.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Douze_Link_and_Code_CVPR_2018_paper.pdf)" Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
