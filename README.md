@@ -168,6 +168,7 @@ Source: A survey of product quantization.
 - Yang, Mingyu, Wentao Li, and Wei Wang. "[Fast High-dimensional Approximate Nearest Neighbor Search with Efficient Index Time and Space.](https://arxiv.org/pdf/2411.06158)" arXiv preprint arXiv:2411.06158 (2024).
 - Liu, Qiyu, et al. "[Learned Data Compression: Challenges and Opportunities for the Future.](https://arxiv.org/pdf/2412.10770)" arXiv preprint arXiv:2412.10770 (2024).
 - Vallaeys, Théophane, et al. "[Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks.](https://arxiv.org/pdf/2501.03078)" arXiv preprint arXiv:2501.03078 (2025).
+- Mageirakos, Vasilis, Bowen Wu, and Gustavo Alonso. "[Cracking Vector Search Indexes](https://arxiv.org/pdf/2503.01823)." arXiv preprint arXiv:2503.01823 (2025).
 
 ## Graph-based Methods
 
