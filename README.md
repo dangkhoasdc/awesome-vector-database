@@ -251,6 +251,7 @@ Source: A survey of product quantization.
 - Wei, Jiuqi, et al. "[Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2411.14754)" arXiv preprint arXiv:2411.14754 (2024).
 - Severo, Daniel, et al. ["Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2501.10479)." arXiv preprint arXiv:2501.10479 (2025).
 - Scheerer, J. L., Zaharia, M., Potts, C., Alonso, G., & Khattab, O. (2025). WARP: An Efficient Engine for Multi-Vector Retrieval. arXiv [Cs.IR]. Retrieved from http://arxiv.org/abs/2501.17788
+- Kuffo, Leonardo, Elena Krippner, and Peter Boncz. "[PDX: A Data Layout for Vector Similarity Search](https://arxiv.org/pdf/2503.04422)." arXiv preprint arXiv:2503.04422 (2025).
 
 
 ## Systems
