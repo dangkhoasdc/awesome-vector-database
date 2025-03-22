@@ -282,6 +282,7 @@ Source: A survey of product quantization.
 - Lin, Jimmy. "[Operational Advice for Dense and Sparse Retrievers: HNSW, Flat, or Inverted Indexes?.](https://arxiv.org/pdf/2409.06464)" arXiv preprint arXiv:2409.06464 (2024).
 - Zhou, Mingxun, Elaine Shi, and Giulia Fanti. "[Pacmann: Efficient Private Approximate Nearest Neighbor Search.](https://eprint.iacr.org/2024/1600.pdf)" Cryptology ePrint Archive (2024).
 - Vecchiato, Thomas. "[Learning Cluster Representatives for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2412.05921)" arXiv preprint arXiv:2412.05921 (2024).
+- Special Issue on High-Dimensional Vector Similarity Search: The Role of Machine Learning, and Future Perspectives [[PDF](http://sites.computer.org/debull/A24sept/A24SEPT-CD.pdf#page=45)]
 
 
 ## :chart_with_upwards_trend: Evaluation & Metrics
