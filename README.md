@@ -169,6 +169,7 @@ Source: A survey of product quantization.
 - Liu, Qiyu, et al. "[Learned Data Compression: Challenges and Opportunities for the Future.](https://arxiv.org/pdf/2412.10770)" arXiv preprint arXiv:2412.10770 (2024).
 - Vallaeys, Théophane, et al. "[Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks.](https://arxiv.org/pdf/2501.03078)" arXiv preprint arXiv:2501.03078 (2025).
 - Mageirakos, Vasilis, Bowen Wu, and Gustavo Alonso. "[Cracking Vector Search Indexes](https://arxiv.org/pdf/2503.01823)." arXiv preprint arXiv:2503.01823 (2025).
+- ZHANG, FANGYUAN, et al. "[Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search](https://www1.se.cuhk.edu.hk/~swang/V3mod-152-RangePQ.pdf)." (2025).
 
 ## Graph-based Methods
 
@@ -213,6 +214,7 @@ Source: A survey of product quantization.
 - Yin, Ziqi, et al. "[DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph](https://dl.acm.org/doi/pdf/10.1145/3709679)." Proceedings of the ACM on Management of Data 3.1 (2025): 1-28.
 - Shi, Yang, et al. "[Scalable Overload-Aware Graph-Based Index Construction for 10-Billion-Scale Vector Similarity Search](https://arxiv.org/pdf/2502.20695)." arXiv preprint arXiv:2502.20695 (2025).
 - Gui, Yuntao, et al. "[PilotANN: Memory-Bounded GPU Acceleration for Vector Search.](https://arxiv.org/pdf/2503.21206)" arXiv preprint arXiv:2503.21206 (2025).
+
 
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
