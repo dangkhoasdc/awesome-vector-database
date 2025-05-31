@@ -213,7 +213,7 @@ Source: A survey of product quantization.
 - Douze, Matthijs, Alexandre Sablayrolles, and Hervé Jégou. "[Link and code: Fast indexing with graphs and compact regression codes.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Douze_Link_and_Code_CVPR_2018_paper.pdf)" Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 - Yin, Ziqi, et al. "[DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph](https://dl.acm.org/doi/pdf/10.1145/3709679)." Proceedings of the ACM on Management of Data 3.1 (2025): 1-28.
 - Shi, Yang, et al. "[Scalable Overload-Aware Graph-Based Index Construction for 10-Billion-Scale Vector Similarity Search](https://arxiv.org/pdf/2502.20695)." arXiv preprint arXiv:2502.20695 (2025).
-- Gui, Yuntao, et al. "[PilotANN: Memory-Bounded GPU Acceleration for Vector Search.](https://arxiv.org/pdf/2503.21206)" arXiv preprint arXiv:2503.21206 (2025).
+- Gui, Yuntao, et al. "[PilotANN: Memory-Bounded GPU Acceleration for Vector Search.](https://arxiv.org/pdf/2503.21206)" arXiv preprint arXiv:2503.21206 (2025) [[Code](https://github.com/ytgui/PilotANN)]
 
 
 ## 🎄Tree-based Methods
