@@ -214,6 +214,7 @@ Source: A survey of product quantization.
 - Yin, Ziqi, et al. "[DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph](https://dl.acm.org/doi/pdf/10.1145/3709679)." Proceedings of the ACM on Management of Data 3.1 (2025): 1-28.
 - Shi, Yang, et al. "[Scalable Overload-Aware Graph-Based Index Construction for 10-Billion-Scale Vector Similarity Search](https://arxiv.org/pdf/2502.20695)." arXiv preprint arXiv:2502.20695 (2025).
 - Gui, Yuntao, et al. "[PilotANN: Memory-Bounded GPU Acceleration for Vector Search.](https://arxiv.org/pdf/2503.21206)" arXiv preprint arXiv:2503.21206 (2025) [[Code](https://github.com/ytgui/PilotANN)]
+- Chung, Jun Woo, Huawei Lin, and Weijie Zhao. "[Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3726302.3730028)." Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2025.
 
 
 ## 🎄Tree-based Methods
