@@ -215,6 +215,7 @@ Source: A survey of product quantization.
 - Shi, Yang, et al. "[Scalable Overload-Aware Graph-Based Index Construction for 10-Billion-Scale Vector Similarity Search](https://arxiv.org/pdf/2502.20695)." arXiv preprint arXiv:2502.20695 (2025).
 - Gui, Yuntao, et al. "[PilotANN: Memory-Bounded GPU Acceleration for Vector Search.](https://arxiv.org/pdf/2503.21206)" arXiv preprint arXiv:2503.21206 (2025) [[Code](https://github.com/ytgui/PilotANN)]
 - Chung, Jun Woo, Huawei Lin, and Weijie Zhao. "[Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3726302.3730028)." Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2025.
+- Xiao, Yang, et al. "[Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework.](https://arxiv.org/pdf/2507.10070)" arXiv preprint arXiv:2507.10070 (2025).
 
 
 ## 🎄Tree-based Methods
