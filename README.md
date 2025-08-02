@@ -217,7 +217,6 @@ Source: A survey of product quantization.
 - Chung, Jun Woo, Huawei Lin, and Weijie Zhao. "[Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3726302.3730028)." Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2025.
 - Xiao, Yang, et al. "[Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework.](https://arxiv.org/pdf/2507.10070)" arXiv preprint arXiv:2507.10070 (2025).
 
-
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
 - Li, Haitao, et al. "[Constructing Tree-based Index for Efficient and Effective Dense Retrieval.](https://arxiv.org/pdf/2304.11943.pdf)" arXiv preprint arXiv:2304.11943 (2023).
@@ -264,6 +263,7 @@ Source: A survey of product quantization.
 - Qin, An, et al. "[Maze: A Cost-Efficient Video Deduplication System at Web-scale](https://dl.acm.org/doi/pdf/10.1145/3503161.3548145)." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
 - Doshi, Ishita, et al. "[LANNS: a web-scale approximate nearest neighbor lookup system](https://arxiv.org/pdf/2010.09426.pdf)." arXiv preprint arXiv:2010.09426 (2020).
 - Chen, Yaoqi, et al. "[OneSparse: A Unified System for Multi-index Vector Search](https://dl.acm.org/doi/pdf/10.1145/3589335.3648338)." Companion Proceedings of the ACM on Web Conference 2024. 2024.
+- Sun, Ji, et al. "[GaussDB-Vector: A Large-Scale Persistent Real-Time Vector Database for LLM Applications](https://sunji.greatji.com/resource/p2114-li%20(1).pdf)."
 
 ## Others
 - [Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices](https://arxiv.org/abs/2312.07517)
