@@ -40,7 +40,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [annoy](https://github.com/spotify/annoy)
 - [NGT](https://github.com/yahoojapan/NGT)
 - [pgvector](https://github.com/pgvector/pgvector)
-- [Chroma](https://github.com/chroma-core/chroma)
+- [Chroma](https://github.com/chroma-core/chroma) - AI memory with semantic, full-text, & regex search
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 - [Epsilla](https://github.com/epsilla-cloud/vectordb/tree/main)
 - [jvector](https://github.com/jbellis/jvector)
