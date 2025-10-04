@@ -218,6 +218,7 @@ Source: A survey of product quantization.
 - Xiao, Yang, et al. "[Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework.](https://arxiv.org/pdf/2507.10070)" arXiv preprint arXiv:2507.10070 (2025).
 - Yang, Ming, Yuzheng Cai, and Weiguo Zheng. "[Hi-PNG: Efficient Interval-Filtering ANNS via Hierarchical Interval Partition Navigating Graph](https://dl.acm.org/doi/pdf/10.1145/3711896.3736997)." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2. 2025.
 - Bosch, Yannick, and Sabine Storandt. "[Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search.](https://ojs.aaai.org/index.php/ICAPS/article/download/36113/38267)" Proceedings of the International Conference on Automated Planning and Scheduling. Vol. 35. No. 1. 2025.
+- Zhong, Xiaoyao, et al. "[VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search.](https://www.vldb.org/pvldb/vol18/p5017-cheng.pdf)" arXiv preprint arXiv:2503.17911 (2025).
 
 
 ## 🎄Tree-based Methods
