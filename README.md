@@ -233,6 +233,7 @@ Source: A survey of product quantization.
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
 - :star: A survey on learning to hash. Wang, Jingdong, Ting Zhang, Nicu Sebe, and Heng Tao Shen [[Paper](https://arxiv.org/pdf/1606.00185.pdf)]
 - :star: A survey on deep hashing methods. Luo, Xiao, Haixin Wang, Daqing Wu, Chong Chen, Minghua Deng, Jianqiang Huang, and Xian-Sheng Hua. [[Paper](https://dl.acm.org/doi/full/10.1145/3532624)]
+- :star: Moran, Sean. "[Learning-Based Hashing for ANN Search: Foundations and Early Advances.](https://arxiv.org/pdf/2510.04127)" arXiv preprint arXiv:2510.04127 (2025).
 - :star: Iterative quantization: A procrustean approach to learning binary codes for large-scale image retrieval. Gong, Yunchao, Svetlana Lazebnik, Albert Gordo, and Florent Perronnin [[Paper](https://slazebni.cs.illinois.edu/publications/ITQ.pdf), [Python code](https://github.com/twistedcubic/learn-to-hash/blob/master/itq.py), [Matlab code](https://github.com/dangkhoasdc/sah/tree/master/itq)]
 - Gan, Yukang, et al. "[Binary Embedding-based Retrieval at Tencent](https://arxiv.org/pdf/2302.08714)." arXiv preprint arXiv:2302.08714 (2023).
 - Yan, Bencheng, et al. "[Binary code based hash embedding for web-scale applications](https://arxiv.org/pdf/2109.02471)." Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021.
