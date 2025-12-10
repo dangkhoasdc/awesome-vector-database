@@ -70,6 +70,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [MuopDB](https://github.com/hicder/muopdb)
 - [puck](https://github.com/baidu/puck)
 - [Denser Retriever](https://github.com/denser-org/denser-retriever)
+- [seekdb](https://github.com/oceanbase/seekdb)
 
 ## Texts
 
