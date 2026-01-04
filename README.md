@@ -172,6 +172,7 @@ Source: A survey of product quantization.
 - Vallaeys, Théophane, et al. "[Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks.](https://arxiv.org/pdf/2501.03078)" arXiv preprint arXiv:2501.03078 (2025).
 - Mageirakos, Vasilis, Bowen Wu, and Gustavo Alonso. "[Cracking Vector Search Indexes](https://arxiv.org/pdf/2503.01823)." arXiv preprint arXiv:2503.01823 (2025).
 - ZHANG, FANGYUAN, et al. "[Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search](https://www1.se.cuhk.edu.hk/~swang/V3mod-152-RangePQ.pdf)." (2025).
+- Huan, Chengying, et al. "[OrchANN: A Unified I/O Orchestration Framework for Skewed Out-of-Core Vector Search.](https://arxiv.org/pdf/2512.22838)" arXiv preprint arXiv:2512.22838 (2025).
 
 ## Graph-based Methods
 
