@@ -173,6 +173,7 @@ Source: A survey of product quantization.
 - Mageirakos, Vasilis, Bowen Wu, and Gustavo Alonso. "[Cracking Vector Search Indexes](https://arxiv.org/pdf/2503.01823)." arXiv preprint arXiv:2503.01823 (2025).
 - ZHANG, FANGYUAN, et al. "[Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search](https://www1.se.cuhk.edu.hk/~swang/V3mod-152-RangePQ.pdf)." (2025).
 - Huan, Chengying, et al. "[OrchANN: A Unified I/O Orchestration Framework for Skewed Out-of-Core Vector Search.](https://arxiv.org/pdf/2512.22838)" arXiv preprint arXiv:2512.22838 (2025).
+- Jin, Yicheng, et al. "[Curator: Efficient Vector Search with Low-Selectivity Filters.](https://arxiv.org/pdf/2601.01291)" arXiv preprint arXiv:2601.01291 (2026).
 
 ## Graph-based Methods
 
@@ -222,6 +223,7 @@ Source: A survey of product quantization.
 - Yang, Ming, Yuzheng Cai, and Weiguo Zheng. "[Hi-PNG: Efficient Interval-Filtering ANNS via Hierarchical Interval Partition Navigating Graph](https://dl.acm.org/doi/pdf/10.1145/3711896.3736997)." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2. 2025.
 - Bosch, Yannick, and Sabine Storandt. "[Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search.](https://ojs.aaai.org/index.php/ICAPS/article/download/36113/38267)" Proceedings of the International Conference on Automated Planning and Scheduling. Vol. 35. No. 1. 2025.
 - Zhong, Xiaoyao, et al. "[VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search.](https://www.vldb.org/pvldb/vol18/p5017-cheng.pdf)" arXiv preprint arXiv:2503.17911 (2025).
+- Zhao, Dongfang. "[MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search.](https://arxiv.org/pdf/2601.01930)" arXiv preprint arXiv:2601.01930 (2026).
 
 
 ## 🎄Tree-based Methods
