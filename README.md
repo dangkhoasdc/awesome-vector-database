@@ -224,6 +224,7 @@ Source: A survey of product quantization.
 - Bosch, Yannick, and Sabine Storandt. "[Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search.](https://ojs.aaai.org/index.php/ICAPS/article/download/36113/38267)" Proceedings of the International Conference on Automated Planning and Scheduling. Vol. 35. No. 1. 2025.
 - Zhong, Xiaoyao, et al. "[VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search.](https://www.vldb.org/pvldb/vol18/p5017-cheng.pdf)" arXiv preprint arXiv:2503.17911 (2025).
 - Zhao, Dongfang. "[MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search.](https://arxiv.org/pdf/2601.01930)" arXiv preprint arXiv:2601.01930 (2026).
+- Xu, Yuming, et al. "[Scalable Distributed Vector Search via Accuracy Preserving Index Construction.](https://arxiv.org/pdf/2512.17264)" arXiv preprint arXiv:2512.17264 (2025).
 
 
 ## 🎄Tree-based Methods
