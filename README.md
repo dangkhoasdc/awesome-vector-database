@@ -253,6 +253,7 @@ Source: A survey of product quantization.
 - Lei, Yifan, et al. "[Locality-sensitive hashing scheme based on longest circular co-substring](https://arxiv.org/pdf/2004.05345)." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
 - Wei, Jiuqi, et al. "[DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2406.10938)." arXiv preprint arXiv:2406.10938 (2024).
 - Meng, Jingfan. "[Efficient locality sensitive hashing: solutions, primitives, and applications.](https://repository.gatech.edu/bitstreams/d4bcf2e3-0d86-44c5-8376-d67639a060b4/download)" (2025).
+- Zhang, Zhibo, et al. "[LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval.](https://arxiv.org/pdf/2601.09159)" arXiv preprint arXiv:2601.09159 (2026).
 
 ## Other Approaches
 - Chen, Qi, et al. "[Spann: Highly-efficient billion-scale approximate nearest neighbor search](https://papers.nips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)." arXiv preprint arXiv:2111.08566 (2021). [[Code](https://github.com/microsoft/SPTAG)]
