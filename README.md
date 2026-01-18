@@ -174,6 +174,7 @@ Source: A survey of product quantization.
 - ZHANG, FANGYUAN, et al. "[Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search](https://www1.se.cuhk.edu.hk/~swang/V3mod-152-RangePQ.pdf)." (2025).
 - Huan, Chengying, et al. "[OrchANN: A Unified I/O Orchestration Framework for Skewed Out-of-Core Vector Search.](https://arxiv.org/pdf/2512.22838)" arXiv preprint arXiv:2512.22838 (2025).
 - Jin, Yicheng, et al. "[Curator: Efficient Vector Search with Low-Selectivity Filters.](https://arxiv.org/pdf/2601.01291)" arXiv preprint arXiv:2601.01291 (2026).
+- Wang, Yang, et al. "[Pyramid Product Quantization for Approximate Nearest Neighbor Search.](https://www.mdpi.com/2076-3417/16/2/853)" Applied Sciences 16.2 (2026): 853.
 
 ## Graph-based Methods
 
