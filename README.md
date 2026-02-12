@@ -175,6 +175,7 @@ Source: A survey of product quantization.
 - Huan, Chengying, et al. "[OrchANN: A Unified I/O Orchestration Framework for Skewed Out-of-Core Vector Search.](https://arxiv.org/pdf/2512.22838)" arXiv preprint arXiv:2512.22838 (2025).
 - Jin, Yicheng, et al. "[Curator: Efficient Vector Search with Low-Selectivity Filters.](https://arxiv.org/pdf/2601.01291)" arXiv preprint arXiv:2601.01291 (2026).
 - Wang, Yang, et al. "[Pyramid Product Quantization for Approximate Nearest Neighbor Search.](https://www.mdpi.com/2076-3417/16/2/853)" Applied Sciences 16.2 (2026): 853.
+- Yang, Mingyu, et al. "[Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search.](https://www.researchgate.net/profile/Mingyu-Yang-26/publication/400339548_Quantization_Meets_Projection_A_Happy_Marriage_for_Approximate_k-Nearest_Neighbor_Search/links/69800d5542f94d1212a5bdd5/Quantization-Meets-Projection-A-Happy-Marriage-for-Approximate-k-Nearest-Neighbor-Search.pdf)"
 
 ## Graph-based Methods
 
