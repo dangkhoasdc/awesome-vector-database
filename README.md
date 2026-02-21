@@ -227,6 +227,9 @@ Source: A survey of product quantization.
 - Zhong, Xiaoyao, et al. "[VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search.](https://www.vldb.org/pvldb/vol18/p5017-cheng.pdf)" arXiv preprint arXiv:2503.17911 (2025).
 - Zhao, Dongfang. "[MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search.](https://arxiv.org/pdf/2601.01930)" arXiv preprint arXiv:2601.01930 (2026).
 - Xu, Yuming, et al. "[Scalable Distributed Vector Search via Accuracy Preserving Index Construction.](https://arxiv.org/pdf/2512.17264)" arXiv preprint arXiv:2512.17264 (2025).
+- Xu, Haike, et al. "[JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search.](https://arxiv.org/pdf/2602.10258)" arXiv preprint arXiv:2602.10258 (2026).
+- Guo, Hao, and Youyou Lu. "[Odinann: Direct insert for consistently stable performance in billion-scale graphbased vector search.](https://www.usenix.org/system/files/conf%C3%A9rence/fast26/fast26spring-prepub_guo.pdf)" 24th USENIX Conference on File and Storage Technologies (FAST 26), Santa Clara, CA. 2026.
+- Chen, Yue, et al. "[RED-ANNS: An RDMA-Enabled Distributed Framework for Graph-Based Approximate Nearest Neighbor Search.](https://kay21s.github.io/RED-ANNS-VLDB2026.pdf)"
 
 
 ## 🎄Tree-based Methods
