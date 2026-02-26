@@ -34,6 +34,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 
 - :star: 🥇 [Vector DB Feature Matrix](https://docs.google.com/spreadsheets/d/170HErOyOkLDjQfy3TJ6a3XXXM1rHvw_779Sit-KT7uc/edit#gid=0)
 - :star: [Faiss](https://faiss.ai/) [Paper](https://arxiv.org/pdf/2401.08281.pdf)
+- [ArcadeDB](https://arcadedb.com/) - open-source multi-model database with native vector embedding support alongside graph, document, key-value and time series models
 - [Typesense](https://typesense.org/)
 - [Qdrant](https://qdrant.tech/)
   - [Video tutorial](https://youtu.be/LRcZ9pbGnno), [Notebook](https://github.com/qdrant/examples/blob/master/qdrant_101_getting_started/getting_started.ipynb)
