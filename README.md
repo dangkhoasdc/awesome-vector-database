@@ -232,6 +232,7 @@ Source: A survey of product quantization.
 - Guo, Hao, and Youyou Lu. "[Odinann: Direct insert for consistently stable performance in billion-scale graphbased vector search.](https://www.usenix.org/system/files/conf%C3%A9rence/fast26/fast26spring-prepub_guo.pdf)" 24th USENIX Conference on File and Storage Technologies (FAST 26), Santa Clara, CA. 2026.
 - Chen, Yue, et al. "[RED-ANNS: An RDMA-Enabled Distributed Framework for Graph-Based Approximate Nearest Neighbor Search.](https://kay21s.github.io/RED-ANNS-VLDB2026.pdf)"
 - Rubel, Tobias, et al. "[PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing](https://arxiv.org/pdf/2602.21247)." arXiv preprint arXiv:2602.21247 (2026).
+- Fang, Fei, Yi Liu, and Chen Qian. "[d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory.](https://arxiv.org/pdf/2603.13591)" arXiv preprint arXiv:2603.13591 (2026).
 
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
