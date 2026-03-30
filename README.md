@@ -23,6 +23,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
 - [KBD.AI](https://kdb.ai/)
 - [Denser Retriever](https://denser.ai)
+- [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
