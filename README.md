@@ -137,6 +137,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - Nearest neighbor search: the old, the new, and the impossible. Andoni, Alexandr. [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/55090/587638612-MIT.pdf?sequence=2)]
 - Ganbarov, Ali, et al. "[Experimental comparison of graph-based approximate nearest neighbor search algorithms on edge devices.](https://arxiv.org/pdf/2411.14006)" arXiv preprint arXiv:2411.14006 (2024).
 - Li, Zhaoheng, et al. "[Cloud-Native Vector Search: A Comprehensive Performance Analysis.](https://arxiv.org/pdf/2511.14748)" arXiv preprint arXiv:2511.14748 (2025).
+- Song, Yitong, et al. "[Disk-Resident Vector Similarity Search: A Survey.](https://hkbudb.github.io/disk-vss-survey/Disk-Resident%20Vector%20Similarity%20Search-%20A%20Survey.pdf)"
 
 
 ## Quantization
@@ -179,6 +180,7 @@ Source: A survey of product quantization.
 - Jin, Yicheng, et al. "[Curator: Efficient Vector Search with Low-Selectivity Filters.](https://arxiv.org/pdf/2601.01291)" arXiv preprint arXiv:2601.01291 (2026).
 - Wang, Yang, et al. "[Pyramid Product Quantization for Approximate Nearest Neighbor Search.](https://www.mdpi.com/2076-3417/16/2/853)" Applied Sciences 16.2 (2026): 853.
 - Yang, Mingyu, et al. "[Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search.](https://www.researchgate.net/profile/Mingyu-Yang-26/publication/400339548_Quantization_Meets_Projection_A_Happy_Marriage_for_Approximate_k-Nearest_Neighbor_Search/links/69800d5542f94d1212a5bdd5/Quantization-Meets-Projection-A-Happy-Marriage-for-Approximate-k-Nearest-Neighbor-Search.pdf)"
+- Yin, Ziqi, et al. "[BBC: Improving Large-k Approximate Nearest Neighbor Search with a Bucket-based Result Collector.](https://arxiv.org/pdf/2604.01960)" arXiv preprint arXiv:2604.01960 (2026).
 
 ## Graph-based Methods
 
