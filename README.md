@@ -84,6 +84,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD): Efficient Alternative to `scipy.spatial.distance` and `numpy.inner`
 - [vector-io](https://github.com/AI-Northstar-Tech/vector-io): Comprehensive Vector Data Tooling.
 - [VectorDBZ](https://github.com/vectordbz/vectordbz) — GUI desktop app for exploring and debugging vector databases
+- [Agent Brain](https://github.com/kaderosio/agent-brain): 7-layer cognitive memory system for AI agents using PostgreSQL/pgvector for vector storage. Self-hostable.
 
 # Benchmarks & Databases
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
