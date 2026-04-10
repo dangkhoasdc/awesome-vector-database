@@ -73,6 +73,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [puck](https://github.com/baidu/puck)
 - [Denser Retriever](https://github.com/denser-org/denser-retriever)
 - [seekdb](https://github.com/oceanbase/seekdb)
+- [brinicle](https://github.com/bicardinal/brinicle) - Resource-efficient C++ vector index engine built for low-RAM production workloads
 
 ## Texts
 
