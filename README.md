@@ -74,6 +74,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Denser Retriever](https://github.com/denser-org/denser-retriever)
 - [seekdb](https://github.com/oceanbase/seekdb)
 - [brinicle](https://github.com/bicardinal/brinicle) - Resource-efficient C++ vector index engine built for low-RAM production workloads
+- [VelesDB](https://github.com/cyberlife-coder/VelesDB) - Embedded vector + graph + columnar database. Rust core (~6MB), HNSW with 5 distance metrics, VelesQL (SQL + NEAR + MATCH). Python and Rust SDKs.
 
 ## Texts
 
