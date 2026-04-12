@@ -241,6 +241,7 @@ Source: A survey of product quantization.
 - Rubel, Tobias, et al. "[PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing](https://arxiv.org/pdf/2602.21247)." arXiv preprint arXiv:2602.21247 (2026).
 - Fang, Fei, Yi Liu, and Chen Qian. "[d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory.](https://arxiv.org/pdf/2603.13591)" arXiv preprint arXiv:2603.13591 (2026).
 - Wu, Zekai, et al. "[FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2603.21710)" arXiv preprint arXiv:2603.21710 (2026).
+- Xiao, Yang, et al. "[FlashANNS: GPU-Driven Asynchronous I/O Pipelining for Eliminating Storage-Compute Bottlenecks in Billion-Scale Similarity Search.](https://dl.acm.org/doi/pdf/10.1145/3786652)" Proceedings of the ACM on Management of Data 4.1 (SIGMOD (2026): 1-27.
 
 ## 🎄Tree-based Methods
 - Jayaram Subramanya, Suhas, et al. "[Diskann: Fast accurate billion-point nearest neighbor search on a single node.](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)" Advances in Neural Information Processing Systems 32 (2019). [[Code](https://github.com/microsoft/DiskANN)]
@@ -293,6 +294,7 @@ Source: A survey of product quantization.
 - Doshi, Ishita, et al. "[LANNS: a web-scale approximate nearest neighbor lookup system](https://arxiv.org/pdf/2010.09426.pdf)." arXiv preprint arXiv:2010.09426 (2020).
 - Chen, Yaoqi, et al. "[OneSparse: A Unified System for Multi-index Vector Search](https://dl.acm.org/doi/pdf/10.1145/3589335.3648338)." Companion Proceedings of the ACM on Web Conference 2024. 2024.
 - Sun, Ji, et al. "[GaussDB-Vector: A Large-Scale Persistent Real-Time Vector Database for LLM Applications](https://sunji.greatji.com/resource/p2114-li%20(1).pdf)."
+- Zhi, Xiangyu, et al. "[CoTra: Towards Efficient and Scalable Distributed Vector Search with RDMA.](https://dl.acm.org/doi/pdf/10.1145/3786634)" Proceedings of the ACM on Management of Data 4.1 (SIGMOD (2026): 1-27.
 
 ## Others
 - [Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices](https://arxiv.org/abs/2312.07517)
