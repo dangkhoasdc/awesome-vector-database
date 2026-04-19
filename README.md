@@ -26,7 +26,9 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
 
 ## Comparisons
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Vector DB Comparison by VectorHub](https://vdbs.superlinked.com/)
 - [MyScale Vector Database Benchmark 🚀](https://github.com/myscale/vector-db-benchmark)
   
