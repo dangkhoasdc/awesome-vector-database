@@ -185,6 +185,7 @@ Source: A survey of product quantization.
 - Yang, Mingyu, et al. "[Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search.](https://www.researchgate.net/profile/Mingyu-Yang-26/publication/400339548_Quantization_Meets_Projection_A_Happy_Marriage_for_Approximate_k-Nearest_Neighbor_Search/links/69800d5542f94d1212a5bdd5/Quantization-Meets-Projection-A-Happy-Marriage-for-Approximate-k-Nearest-Neighbor-Search.pdf)"
 - Yin, Ziqi, et al. "[BBC: Improving Large-k Approximate Nearest Neighbor Search with a Bucket-based Result Collector.](https://arxiv.org/pdf/2604.01960)" arXiv preprint arXiv:2604.01960 (2026).
 - Sun, Yiping, Yang Shi, and Jiaolong Du. "[A real-time adaptive multi-stream gpu system for online approximate nearest neighborhood search.](https://arxiv.org/pdf/2408.02937)" Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. 2024.
+- Bahn, DongHa. "[EIVF: Efficient IVFPQ Search for On-Device ARM Processors.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11463912)" ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026.
 
 ## Graph-based Methods
 
