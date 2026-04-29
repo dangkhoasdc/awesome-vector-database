@@ -186,6 +186,7 @@ Source: A survey of product quantization.
 - Yin, Ziqi, et al. "[BBC: Improving Large-k Approximate Nearest Neighbor Search with a Bucket-based Result Collector.](https://arxiv.org/pdf/2604.01960)" arXiv preprint arXiv:2604.01960 (2026).
 - Sun, Yiping, Yang Shi, and Jiaolong Du. "[A real-time adaptive multi-stream gpu system for online approximate nearest neighborhood search.](https://arxiv.org/pdf/2408.02937)" Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. 2024.
 - Bahn, DongHa. "[EIVF: Efficient IVFPQ Search for On-Device ARM Processors.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11463912)" ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026.
+- Abraham, Ashley N., et al. "[Large-Scale Data Parallelization of Product Quantization and Inverted Indexing Using Dask.](https://arxiv.org/pdf/2604.21645)" arXiv preprint arXiv:2604.21645 (2026).
 
 ## Graph-based Methods
 
