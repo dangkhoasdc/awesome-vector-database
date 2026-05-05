@@ -83,6 +83,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [sonic](https://github.com/valeriansaliou/sonic)
 
 ## Others
+- [1bench](https://1bench.dev) — desktop GUI for vector search across Qdrant, Postgres (pgvector), Redis, Elasticsearch, ClickHouse, and more; 2D embedding visualization, find similar, and visual query builder
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD): Efficient Alternative to `scipy.spatial.distance` and `numpy.inner`
 - [vector-io](https://github.com/AI-Northstar-Tech/vector-io): Comprehensive Vector Data Tooling.
 - [VectorDBZ](https://github.com/vectordbz/vectordbz) — GUI desktop app for exploring and debugging vector databases
