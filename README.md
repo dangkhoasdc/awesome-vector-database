@@ -75,6 +75,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [seekdb](https://github.com/oceanbase/seekdb)
 - [brinicle](https://github.com/bicardinal/brinicle) - Resource-efficient C++ vector index engine built for low-RAM production workloads
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) - Embedded vector + graph + columnar database. Rust core (~6MB), HNSW with 5 distance metrics, VelesQL (SQL + NEAR + MATCH). Python and Rust SDKs.
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted agent memory server with HNSW vector indexing and RocksDB persistence. Decay-weighted recall, multi-session support, and cross-agent knowledge sharing. MCP-native with Python, JavaScript, Rust, and Go SDKs.
 
 ## Texts
 
