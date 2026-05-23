@@ -255,6 +255,7 @@ Source: A survey of product quantization.
 - Song, Yang, et al. "[ProMIPS: Efficient high-dimensional C-approximate maximum inner product search with a lightweight index](https://arxiv.org/pdf/2104.04406)." 2021 IEEE 37th International Conference on Data Engineering (ICDE). IEEE, 2021.
 - Zhu, Yifan, et al. "[GTS: GPU-based Tree Index for Fast Similarity Search](https://arxiv.org/html/2404.00966v1)." arXiv preprint arXiv:2404.00966 (2024).
 - Tatsuno, Kento, et al. "[AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free Information Retrieval](https://arxiv.org/pdf/2404.06004.pdf)." arXiv preprint arXiv:2404.06004 (2024).
+- Chen, Weijian, et al. "[Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search.](https://dl.acm.org/doi/pdf/10.1145/3802045)" Proceedings of the ACM on Management of Data 4.3 (SIGMOD (2026): 1-27.
 
 ## Hashing
 - :star: [Awesome Papers on Learning to Hash](https://learning2hash.github.io)
