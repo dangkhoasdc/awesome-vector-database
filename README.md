@@ -189,6 +189,7 @@ Source: A survey of product quantization.
 - Bahn, DongHa. "[EIVF: Efficient IVFPQ Search for On-Device ARM Processors.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11463912)" ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026.
 - Abraham, Ashley N., et al. "[Large-Scale Data Parallelization of Product Quantization and Inverted Indexing Using Dask.](https://arxiv.org/pdf/2604.21645)" arXiv preprint arXiv:2604.21645 (2026).
 - Ahmed, Ibrar. "[TTVI: A Two-Tier Vector Index for Low-WAL Approximate Nearest Neighbor Search in Databases.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11501658)" IEEE Access (2026).
+- Ma, Y. T., et al. "[CS-PQ: Cache-Friendly SIMD Product Quantization for Large-Scale ANNS Index Construction.](https://arxiv.org/pdf/2605.25521)" arXiv preprint arXiv:2605.25521 (2026).
 
 ## Graph-based Methods
 
