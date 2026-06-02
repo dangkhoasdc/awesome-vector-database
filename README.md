@@ -303,6 +303,7 @@ Source: A survey of product quantization.
 - Chen, Yaoqi, et al. "[OneSparse: A Unified System for Multi-index Vector Search](https://dl.acm.org/doi/pdf/10.1145/3589335.3648338)." Companion Proceedings of the ACM on Web Conference 2024. 2024.
 - Sun, Ji, et al. "[GaussDB-Vector: A Large-Scale Persistent Real-Time Vector Database for LLM Applications](https://sunji.greatji.com/resource/p2114-li%20(1).pdf)."
 - Zhi, Xiangyu, et al. "[CoTra: Towards Efficient and Scalable Distributed Vector Search with RDMA.](https://dl.acm.org/doi/pdf/10.1145/3786634)" Proceedings of the ACM on Management of Data 4.1 (SIGMOD (2026): 1-27.
+- Wang, Yan, et al. "[LindormVector: A Distributed Vector Engine on a Cloud-Native Multi-Model NoSQL Database.](https://dl.acm.org/doi/epdf/10.1145/3788853.3803088)" Companion of the International Conference on Management of Data. 2026.
 
 ## Others
 - [Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices](https://arxiv.org/abs/2312.07517)
