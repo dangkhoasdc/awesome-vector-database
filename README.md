@@ -25,6 +25,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Denser Retriever](https://denser.ai)
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust infrastructure service for AI agents. On-chain agent scoring, pre-dispatch trust gating, and signed receipts via Solana. MCP server with zero-install Streamable HTTP.
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
 - [Vector DB Comparison by VectorHub](https://vdbs.superlinked.com/)
