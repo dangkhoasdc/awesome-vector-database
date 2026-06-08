@@ -294,7 +294,7 @@ Source: A survey of product quantization.
 - Kuffo, Leonardo, Elena Krippner, and Peter Boncz. "[PDX: A Data Layout for Vector Similarity Search](https://arxiv.org/pdf/2503.04422)." arXiv preprint arXiv:2503.04422 (2025).
 - Dang, Nam Anh, Ben Landrum, and Ken Birman. "[Passing the Baton: High Throughput Distributed Disk-Based Vector Search with BatANN.](https://arxiv.org/pdf/2512.09331)" arXiv preprint arXiv:2512.09331 (2025).
 - Chen, Yaoqi, et al. "[RetroInfer: A Vector Storage Engine for Scalable Long-Context LLM Inference.](https://www.vldb.org/pvldb/vol19/p1016-lu.pdf)"
-
+- Heidari, Alireza, Wei Zhang, and Ying Xiong. "[FusedANN: Convexified Hybrid ANN via Attribute-Vector Fusion.](https://arxiv.org/pdf/2509.19767)" arXiv preprint arXiv:2509.19767 (2025).
 
 ## Systems
 
