@@ -58,6 +58,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [havenask](https://github.com/alibaba/havenask)
 - [chromem-go](https://github.com/philippgille/chromem-go)
 - [OasysDB](https://github.com/oasysai/oasysdb) [[Notebook](https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing)]
+- [Omnigraph](https://github.com/ModernRelay/omnigraph) - Typed graph database for agent memory. S3-native, Rust, vector + BM25 in one runtime, Git-style branch/merge.
 - [Meilisearch](https://github.com/meilisearch) - Search engine API for Semantic (vectors), full-text & hybrid search
 - [arroy](https://github.com/meilisearch/arroy) - Approximate Nearest Neighbors Rust library
 - [bleve](https://github.com/blevesearch/bleve)
