@@ -191,6 +191,7 @@ Source: A survey of product quantization.
 - Ahmed, Ibrar. "[TTVI: A Two-Tier Vector Index for Low-WAL Approximate Nearest Neighbor Search in Databases.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11501658)" IEEE Access (2026).
 - Ma, Y. T., et al. "[CS-PQ: Cache-Friendly SIMD Product Quantization for Large-Scale ANNS Index Construction.](https://arxiv.org/pdf/2605.25521)" arXiv preprint arXiv:2605.25521 (2026).
 - Han, Jiabao, Mengxuan Zhang, and Goce Trajcevski. "[JHQ: Johnson-Lindenstrauss Enhanced Hierarchical Quantization for High-Dimensional Approximate Nearest Neighbor Search.](https://www.vldb.org/pvldb/vol19/p1530-han.pdf)"
+- Tepper, Mariano, and Theodore Willke. "[ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization.](https://arxiv.org/pdf/2606.07870)" arXiv preprint arXiv:2606.07870 (2026).
 
 ## Graph-based Methods
 
