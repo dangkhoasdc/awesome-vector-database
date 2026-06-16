@@ -330,6 +330,7 @@ Source: A survey of product quantization.
 - Zhou, Mingxun, Elaine Shi, and Giulia Fanti. "[Pacmann: Efficient Private Approximate Nearest Neighbor Search.](https://eprint.iacr.org/2024/1600.pdf)" Cryptology ePrint Archive (2024).
 - Vecchiato, Thomas. "[Learning Cluster Representatives for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2412.05921)" arXiv preprint arXiv:2412.05921 (2024).
 - Special Issue on High-Dimensional Vector Similarity Search: The Role of Machine Learning, and Future Perspectives [[PDF](http://sites.computer.org/debull/A24sept/A24SEPT-CD.pdf#page=45)]
+- Wang, Yichuan, et al. "[LEANN: A Low-Storage Overhead Vector Index.](https://openreview.net/pdf?id=e8Dp5QkFxP)" Ninth Conference on Machine Learning and Systems.
 
 
 ## :chart_with_upwards_trend: Evaluation & Metrics
