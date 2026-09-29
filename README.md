@@ -358,6 +358,7 @@ Source: A survey of product quantization.
 - [Common Pitfalls To Avoid When Using Vector Databases](https://dagshub.com/blog/common-pitfalls-to-avoid-when-using-vector-databases/)
 - [Getting Started With Vector Databases](https://dzone.com/refcardz/getting-started-with-vector-databases)
 - [Choosing the best model for semantic search](https://blog.meilisearch.com/choosing-the-best-model-for-semantic-search/)
+- [Vector Databases Explained: How Semantic Search Stores and Retrieves Knowledge](https://aihustleworld.com/2026/09/vector-databases-explained.html) - Beginner-friendly 2026 explainer of embeddings, similarity search and where vector databases fit in RAG.
 
 ## Related Lists
 
