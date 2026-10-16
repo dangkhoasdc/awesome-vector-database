@@ -21,7 +21,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [Typesense's Cloud](https://cloud.typesense.org)
 - [MongoDB Atlas Vector Search](https://www.mongodb.com/products/platform/atlas-vector-search)
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
-- [KBD.AI](https://kdb.ai/)
+- [KDB.AI](https://kdb.ai/)
 - [Denser Retriever](https://denser.ai)
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
 
