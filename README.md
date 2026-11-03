@@ -24,6 +24,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [KBD.AI](https://kdb.ai/)
 - [Denser Retriever](https://denser.ai)
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
+- [Amazon S3 Vectors](https://aws.amazon.com/s3/features/vectors/) — Object storage with native vector storage and querying. Up to 2 billion vectors per index, with integrations for Amazon Bedrock Knowledge Bases and Amazon OpenSearch Service.
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
