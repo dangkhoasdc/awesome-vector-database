@@ -196,6 +196,9 @@ Source: A survey of product quantization.
 - Tepper, Mariano, and Theodore Willke. "[ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization.](https://arxiv.org/pdf/2606.07870)" arXiv preprint arXiv:2606.07870 (2026).
 - Bessa, Swann, et al. "[Cluster with Auctions for Vector Search](https://arxiv.org/pdf/2607.13728)." arXiv preprint arXiv:2607.13728 (2026).
 - Xu, Yuemeng, et al. "[InSituANN: Revisiting IVF for PCIe-Efficient Billion-Scale Vector Search.](https://arxiv.org/pdf/2608.08751)" arXiv preprint arXiv:2608.08751 (2026).
+- Gou, Yutong, et al. "[RemoteANN: A Native Vector Search Engine for Cloud Object Storage.](https://arxiv.org/pdf/2610.25172)" arXiv preprint arXiv:2610.25172 (2026).
+- Liu, Kuizhi, et al. "[STLQ: Spatio-Topological Linkage Quantization for Approximate Nearest Neighbor Search.](https://arxiv.org/pdf/2610.23931)" arXiv preprint arXiv:2610.23931 (2026).
+- Yang, Zehai, et al. "[Recast: Refinement-Centered Approximate Nearest Neighbor Search Optimized for Storage.](https://arxiv.org/pdf/2611.02765)" arXiv preprint arXiv:2611.02765 (2026).
 
 ## Graph-based Methods
 
