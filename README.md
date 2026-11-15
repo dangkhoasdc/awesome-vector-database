@@ -24,11 +24,13 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [KBD.AI](https://kdb.ai/)
 - [Denser Retriever](https://denser.ai)
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
+- [Vecstore](https://vecstore.app)
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
 - [Vector DB Comparison by VectorHub](https://vdbs.superlinked.com/)
 - [MyScale Vector Database Benchmark 🚀](https://github.com/myscale/vector-db-benchmark)
+- [pgvector vs Qdrant vs Pinecone benchmark at 1M vectors](https://vecstore.app/blog/vector-database-performance-compared)
   
 # Libraries & Engines
 ## Multidimensional data / Vectors
