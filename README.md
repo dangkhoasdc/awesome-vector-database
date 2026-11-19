@@ -33,6 +33,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 # Libraries & Engines
 ## Multidimensional data / Vectors
 
+- [Axonio](https://github.com/hackcat29/ClawDB) - Agent memory engine with vector and graph retrieval and explicit memory branching; Apache-2.0, self-hosted or hosted.
 - :star: 🥇 [Vector DB Feature Matrix](https://docs.google.com/spreadsheets/d/170HErOyOkLDjQfy3TJ6a3XXXM1rHvw_779Sit-KT7uc/edit#gid=0)
 - :star: [Faiss](https://faiss.ai/) [Paper](https://arxiv.org/pdf/2401.08281.pdf)
 - [ArcadeDB](https://arcadedb.com/) - open-source multi-model database with native vector embedding support alongside graph, document, key-value and time series models
