@@ -24,6 +24,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [KBD.AI](https://kdb.ai/)
 - [Denser Retriever](https://denser.ai)
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
+- [TopK](https://topk.io) — Search engine for accuracy-critical AI applications. Hybrid search, multi-vector (late-interaction) retrieval with MaxSim, custom ranking, and managed inference in one API.
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
