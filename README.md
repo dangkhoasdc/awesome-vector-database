@@ -29,6 +29,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
 - [Vector DB Comparison by VectorHub](https://vdbs.superlinked.com/)
 - [MyScale Vector Database Benchmark 🚀](https://github.com/myscale/vector-db-benchmark)
+- [Infrabase Vector Database Comparison](https://infrabase.ai/compare/vector-databases)
   
 # Libraries & Engines
 ## Multidimensional data / Vectors
