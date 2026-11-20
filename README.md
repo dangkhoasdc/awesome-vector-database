@@ -24,6 +24,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [KBD.AI](https://kdb.ai/)
 - [Denser Retriever](https://denser.ai)
 - [Rivestack](https://rivestack.io) — Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, built-in SQL editor with embedding search, free tier available.
+- [Layerbase](https://layerbase.com) - Managed Qdrant and Weaviate hosting with a browser query console, REST API and CLI, alongside 16 other database engines under one account.
 
 ## Comparisons
 - [From Vespa](https://cloud.vespa.ai/feature-comparison.html)
