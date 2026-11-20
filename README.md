@@ -82,6 +82,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [PISA](https://github.com/pisa-engine/pisa)
 - [Tantivy](https://github.com/quickwit-oss/tantivy)
 - [sonic](https://github.com/valeriansaliou/sonic)
+- [sqlite-sparse](https://github.com/arbazsiddiqui/sqlite-sparse) - SQLite extension for learned sparse retrieval; posting lists live in the database file and queries need no model or server
 
 ## Others
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD): Efficient Alternative to `scipy.spatial.distance` and `numpy.inner`
