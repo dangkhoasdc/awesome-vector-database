@@ -87,6 +87,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD): Efficient Alternative to `scipy.spatial.distance` and `numpy.inner`
 - [vector-io](https://github.com/AI-Northstar-Tech/vector-io): Comprehensive Vector Data Tooling.
 - [VectorDBZ](https://github.com/vectordbz/vectordbz) — GUI desktop app for exploring and debugging vector databases
+- [Vector Inspector](https://github.com/anthonypdawson/vector-inspector) — Cross-platform desktop app for browsing, searching, and visualizing vector databases (Chroma, Qdrant, Pinecone, LanceDB, pgvector, Weaviate, Milvus), with CRUD, metadata filtering, and 2D/3D embedding plots
 
 # Benchmarks & Databases
 - [ANN Benchmarks](http://ann-benchmarks.com/) [[Paper](https://arxiv.org/pdf/1807.05614.pdf)].
