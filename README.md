@@ -76,6 +76,7 @@ A curated list of awesome works related to high dimensional structure/vector sea
 - [brinicle](https://github.com/bicardinal/brinicle) - Resource-efficient C++ vector index engine built for low-RAM production workloads
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) - Embedded vector + graph + columnar database. Rust core (~6MB), HNSW with 5 distance metrics, VelesQL (SQL + NEAR + MATCH). Python and Rust SDKs.
 - [infino](https://github.com/infino-ai/infino) - Embedded retrieval engine with SQL, full-text (BM25), and vector search over a single copy of your data as Parquet on object storage. Rust core, Apache-2.0.
+- [Galactus DB](https://galactusdb.com/) - Rust graph database with HNSW vector indexes (cosine or Euclidean, candidates re-scored exactly), queried from Cypher alongside graph traversals, full-text search and SQL tables. Free Community edition.
 
 ## Texts
 
